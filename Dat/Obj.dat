@@ -138,7 +138,7 @@ otCualquiera = 255
 NumOBJs=221
 
 [OBJ1]
-Name=Báculo Mago Agite
+Name=Báculo Mago Agiteeeeee
 ObjType=1
 GrhIndex=619
 AnimAlto=22
@@ -1599,19 +1599,11 @@ DuracionEfecto=1200
 Valor=10
 
 [OBJ221]
-Name=Poción Verde
-NameP=Pociones Verdes
-ObjType=4
-GrhIndex=688
-SoulBound=1
-Newbie=1
-Crucial=1
-TipoPocion=2
-MaxModificador=5
-MinModificador=1
-DuracionEfecto=1200
-Valor=10
-
+Name=Medalla de Bronce
+NameP=Medallas de Bronce
+ObjType=8
+Log=1
+GrhIndex=677
 [OBJ102]'NEWBIE
 Name=Poción Azul
 NameP=Pociones Azules

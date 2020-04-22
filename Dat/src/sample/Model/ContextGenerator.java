@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 public class ContextGenerator {
 
-    final String OBJECTS = "Obj.dat";
+    final String OBJECTS = "../Obj.dat";
 
     private String filename;
     private Pane root;

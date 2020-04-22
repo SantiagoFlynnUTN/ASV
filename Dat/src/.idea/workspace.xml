@@ -26,7 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1araLWmI7pG2UVEpY09Cj87QnFs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -98,51 +98,66 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587498419371" />
-    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1587571079370">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1587572642319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587571079370" />
-    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1587571079360">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587572642319" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1587572642319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587571079360" />
-    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1587571079360">
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587572642319" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1587572642319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587571079360" />
-    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1587571079370">
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587572642319" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1587572642319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587571079370" />
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1587571079370">
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587572642319" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1587572642320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587571079370" />
-    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1587571079370">
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587572642320" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1587572642319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587571079370" />
-    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1587571079370">
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587572642319" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1587572642319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587571079370" />
-    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1587571079370">
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587572642319" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1587572642320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587571079370" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587572642320" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sample/Model/FileUtils/FileParser.java</url>
-          <line>75</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/sample/Model/ContextGenerator.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sample/Model/FileUtils/FileParser.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/sample/Model/ContextGenerator.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sample/Model/ContextGenerator.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sample/Model/ContextGenerator.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sample/Model/ContextGenerator.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

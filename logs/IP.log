@@ -1,0 +1,2789 @@
+11/02/2016 12:18:43 a.m..79 Deslogueado DoEfectosUsuarios
+11/02/2016 12:19:03 a.m..51 WndProc FDCLOSE
+11/02/2016 12:24:59 a.m..88 WndProc FDCLOSE
+11/02/2016 12:24:59 a.m..88 EventoSockClose
+11/02/2016 12:27:23 a.m..96 WndProc FDCLOSE
+11/02/2016 12:27:23 a.m..96 EventoSockClose
+11/02/2016 12:30:22 a.m..78 CrearPersonaje_ CharConectar
+11/02/2016 12:30:22 a.m..90 WndProc FDCLOSE
+11/02/2016 12:35:34 a.m..70 WndProc FDCLOSE
+11/02/2016 12:35:34 a.m..70 EventoSockClose
+11/02/2016 12:38:00 a.m..11 WndProc FDCLOSE
+11/02/2016 12:38:00 a.m..54 PasarSegundo
+11/02/2016 12:52:18 a.m..97 WndProc FDCLOSE
+11/02/2016 12:52:19 a.m..85 PasarSegundo
+11/02/2016 12:53:04 a.m..26 WndProc FDCLOSE
+11/02/2016 12:53:04 a.m..49 PasarSegundo
+11/02/2016 12:57:16 a.m..49 WndProc FDCLOSE
+11/02/2016 12:57:17 a.m..22 PasarSegundo
+11/02/2016 02:35:39 p.m..58 WndProc FDCLOSE
+11/02/2016 02:35:40 p.m..67 PasarSegundo
+11/02/2016 03:14:20 p.m..56 WndProc FDCLOSE
+11/02/2016 03:14:21 p.m..28 PasarSegundo
+11/02/2016 03:15:45 p.m..16 WndProc FDCLOSE
+11/02/2016 03:15:45 p.m..23 PasarSegundo
+11/02/2016 03:15:54 p.m..57 WndProc FDCLOSE
+11/02/2016 03:15:54 p.m..96 PasarSegundo
+11/02/2016 03:16:04 p.m..98 WndProc FDCLOSE
+11/02/2016 03:16:05 p.m..97 PasarSegundo
+11/02/2016 03:19:25 p.m..36 WndProc FDCLOSE
+11/02/2016 03:19:25 p.m..68 PasarSegundo
+11/02/2016 03:47:18 p.m..45 WndProc FDCLOSE
+11/02/2016 03:47:19 p.m..36 PasarSegundo
+11/02/2016 03:47:55 p.m..08 WndProc FDCLOSE
+11/02/2016 03:47:56 p.m..20 PasarSegundo
+11/02/2016 03:49:28 p.m..41 WndProc FDCLOSE
+11/02/2016 03:49:29 p.m..45 PasarSegundo
+11/02/2016 03:52:53 p.m..24 WndProc FDCLOSE
+11/02/2016 03:52:54 p.m..29 PasarSegundo
+11/02/2016 03:54:13 p.m..93 WndProc FDCLOSE
+11/02/2016 03:54:15 p.m..02 PasarSegundo
+11/02/2016 03:57:01 p.m..82 WndProc FDCLOSE
+11/02/2016 03:57:01 p.m..91 PasarSegundo
+11/02/2016 03:59:30 p.m..80 WndProc FDCLOSE
+11/02/2016 03:59:31 p.m..59 PasarSegundo
+11/02/2016 04:09:07 p.m..72 WndProc FDCLOSE
+11/02/2016 04:09:08 p.m..88 PasarSegundo
+11/02/2016 04:12:45 p.m..00 WndProc FDCLOSE
+11/02/2016 04:12:45 p.m..05 PasarSegundo
+11/02/2016 04:14:42 p.m..77 WndProc FDCLOSE
+11/02/2016 04:14:43 p.m..70 PasarSegundo
+11/02/2016 04:25:36 p.m..78 WndProc FDCLOSE
+11/02/2016 04:25:37 p.m..78 PasarSegundo
+11/02/2016 05:21:48 p.m..91 WndProc FDCLOSE
+11/02/2016 05:21:49 p.m..07 PasarSegundo
+11/02/2016 05:53:28 p.m..41 AccLogged DoEfectosUsuarios
+11/02/2016 05:53:28 p.m..47 WndProc FDCLOSE
+11/02/2016 06:23:25 p.m..43 WndProc FDCLOSE
+11/02/2016 06:23:25 p.m..86 PasarSegundo
+11/02/2016 06:28:39 p.m..04 WndProc FDCLOSE
+11/02/2016 06:28:40 p.m..00 PasarSegundo
+11/02/2016 06:38:41 p.m..37 WndProc FDCLOSE
+11/02/2016 06:38:41 p.m..66 PasarSegundo
+11/02/2016 06:49:01 p.m..63 WndProc FDCLOSE
+11/02/2016 06:49:02 p.m..14 PasarSegundo
+11/02/2016 07:16:37 p.m..23 WndProc FDCLOSE
+11/02/2016 07:16:37 p.m..70 PasarSegundo
+11/02/2016 07:18:34 p.m..09 WndProc FDCLOSE
+11/02/2016 07:18:34 p.m..89 PasarSegundo
+11/02/2016 07:21:43 p.m..68 WndProc FDCLOSE
+11/02/2016 07:21:44 p.m..03 PasarSegundo
+11/02/2016 07:22:27 p.m..44 WndProc FDCLOSE
+11/02/2016 07:25:23 p.m..13 WndProc FDCLOSE
+11/02/2016 07:25:23 p.m..43 PasarSegundo
+11/02/2016 07:31:23 p.m..52 WndProc FDCLOSE
+11/02/2016 07:31:24 p.m..51 PasarSegundo
+11/02/2016 07:40:09 p.m..75 WndProc FDCLOSE
+11/02/2016 07:40:10 p.m..48 PasarSegundo
+11/02/2016 11:38:28 p.m..99 WndProc FDCLOSE
+11/02/2016 11:38:29 p.m..75 PasarSegundo
+11/02/2016 11:39:57 p.m..84 WndProc FDCLOSE
+11/02/2016 11:39:58 p.m..48 PasarSegundo
+11/02/2016 11:45:56 p.m..54 WndProc FDCLOSE
+11/02/2016 11:45:56 p.m..83 PasarSegundo
+11/02/2016 11:51:40 p.m..58 WndProc FDCLOSE
+11/02/2016 11:51:41 p.m..64 PasarSegundo
+11/02/2016 11:55:31 p.m..02 WndProc FDCLOSE
+11/02/2016 11:55:31 p.m..71 PasarSegundo
+11/02/2016 11:58:38 p.m..48 WndProc FDCLOSE
+11/02/2016 11:58:38 p.m..88 PasarSegundo
+12/02/2016 12:00:47 a.m..90 WndProc FDCLOSE
+12/02/2016 12:00:47 a.m..97 PasarSegundo
+12/02/2016 12:23:57 a.m..55 WndProc FDCLOSE
+12/02/2016 12:23:58 a.m..21 PasarSegundo
+12/02/2016 12:25:34 a.m..79 WndProc FDCLOSE
+12/02/2016 12:25:35 a.m..21 PasarSegundo
+12/02/2016 12:26:29 a.m..65 WndProc FDCLOSE
+12/02/2016 12:26:30 a.m..72 PasarSegundo
+12/02/2016 12:36:47 a.m..22 WndProc FDCLOSE
+12/02/2016 12:36:48 a.m..01 PasarSegundo
+12/02/2016 02:31:24 a.m..71 WndProc FDCLOSE
+12/02/2016 02:31:24 a.m..82 PasarSegundo
+12/02/2016 02:40:38 a.m..28 WndProc FDCLOSE
+12/02/2016 02:40:38 a.m..45 PasarSegundo
+12/02/2016 02:43:10 a.m..50 WndProc FDCLOSE
+12/02/2016 02:43:10 a.m..81 PasarSegundo
+12/02/2016 02:45:04 a.m..93 WndProc FDCLOSE
+12/02/2016 02:45:05 a.m..62 PasarSegundo
+12/02/2016 02:54:24 a.m..93 WndProc FDCLOSE
+12/02/2016 02:54:25 a.m..19 PasarSegundo
+12/02/2016 02:59:15 a.m..82 WndProc FDCLOSE
+12/02/2016 02:59:15 a.m..82 EventoSockClose
+12/02/2016 05:03:34 p.m..75 WndProc FDCLOSE
+12/02/2016 05:03:34 p.m..89 EventoSockClose
+12/02/2016 05:03:45 p.m..84 WndProc FDCLOSE
+12/02/2016 05:03:45 p.m..84 EventoSockClose
+12/02/2016 05:16:20 p.m..27 WndProc FDCLOSE
+12/02/2016 05:16:20 p.m..27 EventoSockClose
+12/02/2016 05:16:29 p.m..50 WndProc FDCLOSE
+12/02/2016 05:16:29 p.m..50 EventoSockClose
+12/02/2016 05:18:03 p.m..74 Deslogueado DoEfectosUsuarios
+12/02/2016 05:18:04 p.m..79 WndProc FDCLOSE
+12/02/2016 05:41:17 p.m..46 WndProc FDCLOSE
+12/02/2016 05:41:17 p.m..46 EventoSockClose
+12/02/2016 05:42:11 p.m..94 WndProc FDCLOSE
+12/02/2016 05:42:11 p.m..94 EventoSockClose
+12/02/2016 05:42:48 p.m..57 WndProc FDCLOSE
+12/02/2016 05:42:48 p.m..57 EventoSockClose
+12/02/2016 05:44:04 p.m..05 WndProc FDCLOSE
+12/02/2016 05:44:04 p.m..05 EventoSockClose
+12/02/2016 05:48:29 p.m..11 WndProc FDCLOSE
+12/02/2016 05:48:29 p.m..11 EventoSockClose
+12/02/2016 05:51:49 p.m..20 WndProc FDCLOSE
+12/02/2016 05:51:49 p.m..20 EventoSockClose
+12/02/2016 05:53:35 p.m..04 WndProc FDCLOSE
+12/02/2016 05:53:35 p.m..04 EventoSockClose
+12/02/2016 05:56:37 p.m..26 WndProc FDCLOSE
+12/02/2016 05:56:37 p.m..26 EventoSockClose
+12/02/2016 06:01:37 p.m..10 AccLogged DoEfectosUsuarios
+12/02/2016 06:03:37 p.m..41 WndProc FDCLOSE
+12/02/2016 06:25:46 p.m..03 WndProc FDCLOSE
+12/02/2016 06:25:46 p.m..03 EventoSockClose
+12/02/2016 06:34:12 p.m..99 WndProc FDCLOSE
+12/02/2016 06:34:13 p.m..37 PasarSegundo
+12/02/2016 06:35:30 p.m..76 WndProc FDCLOSE
+12/02/2016 06:35:30 p.m..76 EventoSockClose
+12/02/2016 06:40:30 p.m..77 AccLogged DoEfectosUsuarios
+12/02/2016 06:41:08 p.m..24 WndProc FDCLOSE
+12/02/2016 06:41:36 p.m..05 WndProc FDCLOSE
+12/02/2016 06:41:36 p.m..05 EventoSockClose
+12/02/2016 07:07:08 p.m..77 WndProc FDCLOSE
+12/02/2016 07:07:08 p.m..77 EventoSockClose
+12/02/2016 07:12:08 p.m..60 AccLogged DoEfectosUsuarios
+12/02/2016 07:14:08 p.m..91 WndProc FDCLOSE
+12/02/2016 07:15:32 p.m..59 WndProc FDCLOSE
+12/02/2016 07:15:32 p.m..59 EventoSockClose
+12/02/2016 07:18:10 p.m..77 WndProc FDCLOSE
+12/02/2016 07:18:10 p.m..77 EventoSockClose
+12/02/2016 07:19:01 p.m..17 WndProc FDCLOSE
+12/02/2016 07:19:01 p.m..17 EventoSockClose
+12/02/2016 07:20:06 p.m..74 WndProc FDCLOSE
+12/02/2016 07:20:06 p.m..74 EventoSockClose
+12/02/2016 07:20:34 p.m..41 WndProc FDCLOSE
+12/02/2016 07:20:34 p.m..41 EventoSockClose
+12/02/2016 07:26:22 p.m..16 WndProc FDCLOSE
+12/02/2016 07:26:22 p.m..16 EventoSockClose
+12/02/2016 07:26:28 p.m..05 WndProc FDCLOSE
+12/02/2016 07:26:28 p.m..05 EventoSockClose
+12/02/2016 07:26:32 p.m..91 WndProc FDCLOSE
+12/02/2016 07:26:32 p.m..91 EventoSockClose
+12/02/2016 07:26:43 p.m..73 WndProc FDCLOSE
+12/02/2016 07:26:43 p.m..73 EventoSockClose
+12/02/2016 08:47:18 p.m..16 WndProc FDCLOSE
+12/02/2016 08:47:18 p.m..84 PasarSegundo
+14/02/2016 07:04:51 p.m..77 WndProc FDCLOSE
+14/02/2016 07:04:52 p.m..60 PasarSegundo
+14/02/2016 07:11:50 p.m..49 WndProc FDCLOSE
+14/02/2016 07:11:50 p.m..68 PasarSegundo
+14/02/2016 07:15:46 p.m..49 WndProc FDCLOSE
+14/02/2016 07:15:47 p.m..20 PasarSegundo
+14/02/2016 07:17:38 p.m..94 WndProc FDCLOSE
+14/02/2016 07:17:39 p.m..08 PasarSegundo
+14/02/2016 08:25:52 p.m..31 WndProc FDCLOSE
+14/02/2016 08:25:52 p.m..67 PasarSegundo
+14/02/2016 08:26:27 p.m..42 WndProc FDCLOSE
+14/02/2016 08:26:27 p.m..50 PasarSegundo
+16/04/2016 03:28:30 p.m..04 WndProc FDCLOSE
+16/04/2016 03:28:30 p.m..39 PasarSegundo
+16/04/2016 03:49:09 p.m..47 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..47 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..49 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..49 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..49 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..49 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..49 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..50 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..50 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..50 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..50 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..51 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..51 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..51 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..51 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..51 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..52 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..52 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..52 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..53 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..53 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..53 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..53 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..54 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..54 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..54 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..54 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..56 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..56 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..56 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..58 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..58 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..58 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..60 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..60 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..60 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..60 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..61 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..61 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..64 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..64 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..65 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..65 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..65 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..65 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..65 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..66 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..66 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..66 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..66 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..67 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..67 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..67 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..67 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..68 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..68 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..68 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..68 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..69 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..69 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..69 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..69 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..69 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..70 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..70 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..70 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..70 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..71 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..71 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..71 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..71 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..71 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..72 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..72 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..72 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..72 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..73 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..73 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..73 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..73 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..73 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..74 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..74 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..74 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..74 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..75 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..75 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..75 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..75 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..75 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..76 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..76 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..76 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..76 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..77 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..77 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..77 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..77 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..77 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..78 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..78 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..78 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..78 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..78 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..79 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..79 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..79 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..79 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..79 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..80 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..80 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..80 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..80 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..81 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..81 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..81 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..81 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..81 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..82 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..82 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..82 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..82 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..83 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..83 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..83 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..83 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..83 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..84 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..84 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..84 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..84 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..84 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..85 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..85 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..85 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..85 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..85 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..86 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..86 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..86 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..86 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..87 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..87 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..87 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..87 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..88 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..88 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..88 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..88 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..88 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..89 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..89 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..89 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..89 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..90 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..90 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..90 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..90 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..90 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..91 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..91 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..91 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..91 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..92 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..92 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..92 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..92 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..92 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..92 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..93 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..93 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..94 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..94 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..94 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..94 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..94 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..95 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..95 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..95 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..95 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..95 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..96 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..96 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..96 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..96 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..97 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..97 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..97 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..97 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..97 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..98 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..98 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..98 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..98 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..99 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..99 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..99 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:09 p.m..99 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..00 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..00 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..00 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..00 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..00 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..01 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..01 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..01 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..01 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..01 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..02 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..02 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..02 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..02 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..02 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..03 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..03 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..03 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..03 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..04 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..04 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..04 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..04 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..05 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..05 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..05 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..05 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..05 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..06 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..06 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..06 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..06 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..07 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..07 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..07 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..07 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..07 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..08 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..08 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..08 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..08 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..09 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..09 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..09 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..09 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..09 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..10 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..10 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..10 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..10 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..10 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..11 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..11 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..11 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..11 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..12 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..12 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..12 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..12 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..12 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..13 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..13 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..13 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..13 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..14 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..14 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..14 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..14 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..14 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..15 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..15 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..15 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..15 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..15 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..16 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..16 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..16 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..16 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..17 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..17 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..17 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..17 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..17 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..18 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..18 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..18 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..18 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..18 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..19 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..19 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..19 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..19 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..19 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..20 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..20 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..20 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..20 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..20 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..21 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..21 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..21 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..21 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..21 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..22 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..22 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..22 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..22 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..23 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..23 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..23 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..23 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..23 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..24 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..24 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..24 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..24 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..24 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..25 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..25 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..25 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..25 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..26 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..26 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..26 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..26 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..26 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..27 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..27 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..27 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..27 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..27 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..28 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..28 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..28 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..28 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..29 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..29 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..29 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..29 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..29 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..30 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..30 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..30 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..30 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..30 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..31 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..31 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..31 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..31 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..32 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..32 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..32 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..32 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..32 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..33 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..33 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..33 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..33 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..34 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..34 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..34 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..34 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..34 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..35 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..35 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..35 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..35 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..36 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..36 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..36 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..36 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..36 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..37 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..37 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..37 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..37 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..37 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..38 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..38 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..38 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..39 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..39 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..39 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..40 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..40 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..41 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..41 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..41 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..41 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..41 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..42 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..42 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..43 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..43 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..43 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..43 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..43 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..44 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..44 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..44 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..44 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..44 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..45 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..45 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..45 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..45 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..46 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..46 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..46 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..46 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..47 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..47 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..48 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..49 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..49 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..49 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..49 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..49 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..50 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..50 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..50 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..50 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..50 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..51 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..51 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..51 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..52 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..52 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..52 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..52 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..52 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..52 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..53 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..53 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..53 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..53 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..54 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..54 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..54 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..54 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..54 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..55 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..56 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..56 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..56 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..56 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..57 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..58 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..58 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..58 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..58 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..59 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..60 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..60 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..60 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..60 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..61 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..61 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:49:10 p.m..61 restamos conexion a 0 key=-1. NEGATIVO!!
+16/04/2016 03:51:32 p.m..75 WndProc FDCLOSE
+16/04/2016 03:51:33 p.m..78 PasarSegundo
+16/04/2016 03:54:47 p.m..07 WndProc FDCLOSE
+16/04/2016 03:54:48 p.m..10 PasarSegundo
+16/04/2016 03:57:23 p.m..11 WndProc FDCLOSE
+16/04/2016 03:57:24 p.m..14 PasarSegundo
+16/04/2016 03:58:56 p.m..90 WndProc FDCLOSE
+16/04/2016 03:58:57 p.m..10 PasarSegundo
+16/04/2016 09:27:21 p.m..12 WndProc FDCLOSE
+16/04/2016 09:27:21 p.m..12 EventoSockClose
+17/04/2016 01:06:35 a.m..69 WndProc FDCLOSE
+17/04/2016 01:06:36 a.m..03 PasarSegundo
+17/04/2016 01:10:48 a.m..85 WndProc FDCLOSE
+17/04/2016 01:34:13 a.m..89 WndProc FDCLOSE
+17/04/2016 01:34:13 a.m..89 EventoSockClose
+10/06/2016 06:57:00 p.m..98 WndProc FDCLOSE
+10/06/2016 06:57:01 p.m..02 EventoSockClose
+10/06/2016 09:16:40 p.m..98 WndProc FDCLOSE
+10/06/2016 09:16:41 p.m..03 EventoSockClose
+10/06/2016 09:17:13 p.m..42 WndProc FDCLOSE
+10/06/2016 09:17:13 p.m..42 EventoSockClose
+12/06/2016 10:22:00 a.m..19 WndProc FDCLOSE
+12/06/2016 10:22:00 a.m..66 PasarSegundo
+12/06/2016 05:52:11 p.m..36 WndProc FDCLOSE
+12/06/2016 05:52:12 p.m..00 PasarSegundo
+12/06/2016 05:56:35 p.m..17 WndProc FDCLOSE
+12/06/2016 05:56:35 p.m..17 EventoSockClose
+12/06/2016 05:58:44 p.m..28 WndProc FDCLOSE
+12/06/2016 05:58:44 p.m..75 PasarSegundo
+12/06/2016 06:02:41 p.m..97 WndProc FDCLOSE
+12/06/2016 06:02:42 p.m..98 PasarSegundo
+12/06/2016 06:07:38 p.m..21 WndProc FDCLOSE
+12/06/2016 06:07:38 p.m..29 PasarSegundo
+12/06/2016 07:56:40 p.m..38 WndProc FDCLOSE
+12/06/2016 07:56:41 p.m..40 PasarSegundo
+12/06/2016 08:01:55 p.m..21 WndProc FDCLOSE
+12/06/2016 08:01:56 p.m..13 PasarSegundo
+13/06/2016 08:18:22 p.m..27 WndProc FDCLOSE
+13/06/2016 08:18:22 p.m..95 PasarSegundo
+13/06/2016 08:20:00 p.m..81 WndProc FDCLOSE
+13/06/2016 08:20:01 p.m..65 PasarSegundo
+13/06/2016 08:26:20 p.m..54 WndProc FDCLOSE
+13/06/2016 08:26:20 p.m..73 PasarSegundo
+13/06/2016 08:33:02 p.m..24 WndProc FDCLOSE
+13/06/2016 08:33:02 p.m..46 PasarSegundo
+13/06/2016 08:38:51 p.m..21 WndProc FDCLOSE
+13/06/2016 08:38:51 p.m..41 PasarSegundo
+14/06/2016 10:09:24 p.m..24 WndProc FDCLOSE
+14/06/2016 10:09:25 p.m..40 PasarSegundo
+14/06/2016 10:15:48 p.m..25 WndProc FDCLOSE
+14/06/2016 10:15:49 p.m..16 PasarSegundo
+14/06/2016 10:22:32 p.m..56 WndProc FDCLOSE
+14/06/2016 10:22:33 p.m..47 PasarSegundo
+14/06/2016 10:27:41 p.m..98 WndProc FDCLOSE
+14/06/2016 10:27:42 p.m..47 PasarSegundo
+14/06/2016 10:34:38 p.m..55 WndProc FDCLOSE
+14/06/2016 10:34:38 p.m..55 EventoSockClose
+15/06/2016 08:13:49 p.m..42 WndProc FDCLOSE
+15/06/2016 08:13:50 p.m..05 PasarSegundo
+15/06/2016 08:17:48 p.m..70 WndProc FDCLOSE
+15/06/2016 08:17:49 p.m..38 PasarSegundo
+15/06/2016 08:48:50 p.m..28 WndProc FDCLOSE
+15/06/2016 08:48:50 p.m..67 PasarSegundo
+16/06/2016 05:44:34 p.m..92 WndProc FDCLOSE
+16/06/2016 05:44:35 p.m..07 PasarSegundo
+16/06/2016 06:22:15 p.m..95 AccLogged DoEfectosUsuarios
+16/06/2016 06:22:16 p.m..02 WndProc FDCLOSE
+16/06/2016 06:28:33 p.m..17 WndProc FDCLOSE
+16/06/2016 06:28:33 p.m..76 PasarSegundo
+16/06/2016 06:43:33 p.m..43 WndProc FDCLOSE
+16/06/2016 06:43:33 p.m..67 PasarSegundo
+16/06/2016 07:04:55 p.m..01 WndProc FDCLOSE
+16/06/2016 07:04:55 p.m..00 PasarSegundo
+16/06/2016 07:19:29 p.m..11 WndProc FDCLOSE
+16/06/2016 07:19:29 p.m..96 PasarSegundo
+22/06/2016 07:56:59 p.m..77 WndProc FDCLOSE
+22/06/2016 07:57:00 p.m..59 PasarSegundo
+22/06/2016 08:18:09 p.m..74 WndProc FDCLOSE
+22/06/2016 08:18:10 p.m..51 PasarSegundo
+22/06/2016 08:26:07 p.m..44 WndProc FDCLOSE
+22/06/2016 08:26:08 p.m..29 PasarSegundo
+22/06/2016 08:27:59 p.m..88 WndProc FDCLOSE
+22/06/2016 08:28:00 p.m..80 PasarSegundo
+22/06/2016 08:30:40 p.m..58 WndProc FDCLOSE
+22/06/2016 08:30:41 p.m..34 PasarSegundo
+22/06/2016 08:31:36 p.m..26 WndProc FDCLOSE
+22/06/2016 08:31:37 p.m..29 PasarSegundo
+22/06/2016 08:46:03 p.m..33 WndProc FDCLOSE
+22/06/2016 08:46:04 p.m..34 PasarSegundo
+22/06/2016 08:51:45 p.m..78 WndProc FDCLOSE
+22/06/2016 08:51:46 p.m..03 PasarSegundo
+22/06/2016 08:54:22 p.m..15 WndProc FDCLOSE
+22/06/2016 08:54:23 p.m..17 PasarSegundo
+22/06/2016 09:02:24 p.m..95 WndProc FDCLOSE
+22/06/2016 09:02:25 p.m..75 PasarSegundo
+22/06/2016 09:16:12 p.m..44 WndProc FDCLOSE
+22/06/2016 09:16:12 p.m..44 EventoSockClose
+22/06/2016 09:45:31 p.m..99 WndProc FDCLOSE
+22/06/2016 09:45:33 p.m..16 PasarSegundo
+24/06/2016 10:06:01 p.m..12 WndProc FDCLOSE
+24/06/2016 10:06:01 p.m..91 PasarSegundo
+25/06/2016 04:46:04 p.m..38 WndProc FDCLOSE
+25/06/2016 04:46:04 p.m..56 PasarSegundo
+25/06/2016 05:09:32 p.m..27 WndProc FDCLOSE
+25/06/2016 05:09:32 p.m..97 PasarSegundo
+25/06/2016 05:13:09 p.m..55 WndProc FDCLOSE
+25/06/2016 05:13:09 p.m..70 PasarSegundo
+25/06/2016 05:23:46 p.m..60 WndProc FDCLOSE
+25/06/2016 05:23:47 p.m..28 PasarSegundo
+25/06/2016 05:31:38 p.m..75 WndProc FDCLOSE
+25/06/2016 05:31:39 p.m..60 PasarSegundo
+25/06/2016 05:32:54 p.m..34 WndProc FDCLOSE
+25/06/2016 05:32:54 p.m..77 PasarSegundo
+25/06/2016 05:37:35 p.m..82 WndProc FDCLOSE
+25/06/2016 05:37:35 p.m..84 PasarSegundo
+25/06/2016 05:38:30 p.m..15 WndProc FDCLOSE
+25/06/2016 05:38:30 p.m..70 PasarSegundo
+26/06/2016 01:15:24 a.m..30 WndProc FDCLOSE
+26/06/2016 01:15:33 a.m..68 PasarSegundo
+26/06/2016 01:17:02 a.m..48 WndProc FDCLOSE
+26/06/2016 01:17:02 a.m..66 PasarSegundo
+26/06/2016 01:20:57 a.m..23 TratarMinutoANtiCheat
+26/06/2016 01:20:57 a.m..44 WndProc FDCLOSE
+26/06/2016 01:24:10 a.m..49 WndProc FDCLOSE
+26/06/2016 01:24:10 a.m..86 PasarSegundo
+26/06/2016 01:40:58 a.m..02 TratarMinutoANtiCheat
+26/06/2016 01:40:58 a.m..17 WndProc FDCLOSE
+26/06/2016 01:43:24 a.m..39 WndProc FDCLOSE
+26/06/2016 01:43:24 a.m..57 PasarSegundo
+26/06/2016 01:44:23 a.m..84 WndProc FDCLOSE
+26/06/2016 01:44:24 a.m..16 PasarSegundo
+26/06/2016 01:56:22 a.m..73 WndProc FDCLOSE
+26/06/2016 01:56:23 a.m..83 PasarSegundo
+26/06/2016 02:09:57 a.m..11 WndProc FDCLOSE
+26/06/2016 02:09:58 a.m..05 PasarSegundo
+26/06/2016 02:23:05 a.m..67 WndProc FDCLOSE
+26/06/2016 02:23:06 a.m..83 PasarSegundo
+26/06/2016 02:27:34 a.m..83 WndProc FDCLOSE
+26/06/2016 02:27:35 a.m..81 PasarSegundo
+26/06/2016 02:30:44 a.m..70 WndProc FDCLOSE
+26/06/2016 02:30:44 a.m..94 PasarSegundo
+26/06/2016 02:41:16 p.m..02 WndProc FDCLOSE
+26/06/2016 02:41:16 p.m..18 PasarSegundo
+26/06/2016 02:42:40 p.m..13 WndProc FDCLOSE
+26/06/2016 02:42:40 p.m..13 EventoSockClose
+26/06/2016 02:50:00 p.m..71 WndProc FDCLOSE
+26/06/2016 02:50:01 p.m..09 PasarSegundo
+28/06/2016 09:43:50 p.m..16 WndProc FDCLOSE
+28/06/2016 09:43:50 p.m..59 PasarSegundo
+28/06/2016 09:47:46 p.m..16 WndProc FDCLOSE
+28/06/2016 09:47:46 p.m..67 PasarSegundo
+28/06/2016 09:48:00 p.m..76 WndProc FDCLOSE
+28/06/2016 09:48:01 p.m..65 PasarSegundo
+28/06/2016 09:49:19 p.m..04 WndProc FDCLOSE
+28/06/2016 09:49:19 p.m..45 PasarSegundo
+28/06/2016 09:51:49 p.m..45 WndProc FDCLOSE
+28/06/2016 09:51:50 p.m..44 PasarSegundo
+28/06/2016 09:53:22 p.m..45 WndProc FDCLOSE
+28/06/2016 09:53:23 p.m..06 PasarSegundo
+28/06/2016 10:01:39 p.m..81 TratarMinutoANtiCheat
+28/06/2016 10:01:40 p.m..06 WndProc FDCLOSE
+28/06/2016 10:03:39 p.m..96 WndProc FDCLOSE
+28/06/2016 10:03:40 p.m..92 PasarSegundo
+01/07/2016 06:16:55 p.m..45 WndProc FDCLOSE
+01/07/2016 06:16:56 p.m..12 PasarSegundo
+01/07/2016 06:24:21 p.m..19 WndProc FDCLOSE
+01/07/2016 06:24:22 p.m..03 PasarSegundo
+01/07/2016 06:34:43 p.m..38 WndProc FDCLOSE
+01/07/2016 06:34:43 p.m..38 PasarSegundo
+01/07/2016 06:37:43 p.m..98 WndProc FDCLOSE
+01/07/2016 06:37:44 p.m..39 PasarSegundo
+01/07/2016 06:47:46 p.m..18 WndProc FDCLOSE
+01/07/2016 06:47:46 p.m..98 PasarSegundo
+01/07/2016 06:53:06 p.m..35 WndProc FDCLOSE
+01/07/2016 06:53:07 p.m..23 PasarSegundo
+01/07/2016 06:54:45 p.m..98 WndProc FDCLOSE
+01/07/2016 06:54:46 p.m..85 PasarSegundo
+01/07/2016 07:11:03 p.m..75 WndProc FDCLOSE
+01/07/2016 07:11:04 p.m..68 PasarSegundo
+01/07/2016 07:31:46 p.m..39 WndProc FDCLOSE
+01/07/2016 07:31:47 p.m..57 PasarSegundo
+01/07/2016 07:57:19 p.m..37 WndProc FDCLOSE
+01/07/2016 07:57:19 p.m..88 PasarSegundo
+03/07/2016 06:24:35 p.m..82 TratarMinutoANtiCheat
+03/07/2016 06:24:36 p.m..03 WndProc FDCLOSE
+03/07/2016 06:34:36 p.m..77 WndProc FDCLOSE
+03/07/2016 06:52:25 p.m..09 WndProc FDCLOSE
+03/07/2016 06:52:25 p.m..59 PasarSegundo
+03/07/2016 07:25:03 p.m..90 WndProc FDCLOSE
+03/07/2016 07:25:04 p.m..17 PasarSegundo
+03/07/2016 07:27:29 p.m..31 WndProc FDCLOSE
+03/07/2016 07:27:29 p.m..64 PasarSegundo
+03/07/2016 07:59:22 p.m..89 WndProc FDCLOSE
+03/07/2016 07:59:23 p.m..74 PasarSegundo
+03/07/2016 08:09:42 p.m..99 WndProc FDCLOSE
+03/07/2016 08:09:43 p.m..66 PasarSegundo
+03/07/2016 08:53:38 p.m..39 AccLogged DoEfectosUsuarios
+03/07/2016 08:55:22 p.m..50 WndProc FDCLOSE
+03/07/2016 08:55:23 p.m..43 PasarSegundo
+03/07/2016 08:55:38 p.m..72 WndProc FDCLOSE
+03/07/2016 08:59:32 p.m..80 WndProc FDCLOSE
+03/07/2016 08:59:33 p.m..58 PasarSegundo
+03/07/2016 09:06:38 p.m..91 TratarMinutoANtiCheat
+03/07/2016 09:06:39 p.m..08 WndProc FDCLOSE
+03/07/2016 09:10:04 p.m..57 WndProc FDCLOSE
+03/07/2016 09:10:04 p.m..59 PasarSegundo
+04/07/2016 07:13:05 p.m..95 TratarMinutoANtiCheat
+04/07/2016 07:13:06 p.m..38 WNDProc FdClose < 0
+04/07/2016 07:13:06 p.m..38 WndProc FDCLOSE
+04/07/2016 07:13:09 p.m..05 WndProc FDCLOSE
+04/07/2016 07:13:09 p.m..06 EventoSockClose
+04/07/2016 07:17:19 p.m..85 WndProc FDCLOSE
+04/07/2016 07:17:21 p.m..01 PasarSegundo
+04/07/2016 07:25:04 p.m..28 WndProc FDCLOSE
+04/07/2016 07:25:04 p.m..46 PasarSegundo
+04/07/2016 07:38:07 p.m..07 TratarMinutoANtiCheat
+04/07/2016 07:40:07 p.m..39 WndProc FDCLOSE
+04/07/2016 07:40:08 p.m..11 PasarSegundo
+04/07/2016 07:40:16 p.m..28 WndProc FDCLOSE
+04/07/2016 07:57:11 p.m..82 WndProc FDCLOSE
+04/07/2016 07:57:12 p.m..70 PasarSegundo
+04/07/2016 08:01:07 p.m..66 TratarMinutoANtiCheat
+04/07/2016 08:01:08 p.m..67 WndProc FDCLOSE
+04/07/2016 08:02:24 p.m..69 WndProc FDCLOSE
+04/07/2016 08:02:25 p.m..74 PasarSegundo
+04/07/2016 08:11:37 p.m..38 WndProc FDCLOSE
+04/07/2016 08:11:37 p.m..98 PasarSegundo
+04/07/2016 08:17:44 p.m..15 WndProc FDCLOSE
+04/07/2016 08:17:45 p.m..09 PasarSegundo
+04/07/2016 08:24:09 p.m..09 TratarMinutoANtiCheat
+04/07/2016 08:24:09 p.m..23 WndProc FDCLOSE
+05/07/2016 06:19:03 p.m..46 WndProc FDCLOSE
+05/07/2016 06:19:03 p.m..66 PasarSegundo
+05/07/2016 06:25:34 p.m..20 TratarMinutoANtiCheat
+05/07/2016 06:25:34 p.m..34 WndProc FDCLOSE
+05/07/2016 06:27:34 p.m..47 TratarMinutoANtiCheat
+05/07/2016 06:27:34 p.m..66 WndProc FDCLOSE
+05/07/2016 06:29:07 p.m..76 WndProc FDCLOSE
+05/07/2016 06:29:07 p.m..76 EventoSockClose
+05/07/2016 06:37:18 p.m..03 WndProc FDCLOSE
+05/07/2016 06:37:18 p.m..11 PasarSegundo
+05/07/2016 06:42:30 p.m..28 WndProc FDCLOSE
+05/07/2016 06:42:30 p.m..78 PasarSegundo
+05/07/2016 06:48:51 p.m..66 WndProc FDCLOSE
+05/07/2016 06:48:52 p.m..11 PasarSegundo
+05/07/2016 06:51:39 p.m..20 WndProc FDCLOSE
+06/07/2016 08:21:07 p.m..73 WndProc FDCLOSE
+06/07/2016 08:21:08 p.m..03 PasarSegundo
+06/07/2016 08:21:27 p.m..12 WndProc FDCLOSE
+06/07/2016 08:21:27 p.m..79 PasarSegundo
+06/07/2016 08:22:46 p.m..97 WndProc FDCLOSE
+06/07/2016 08:22:47 p.m..12 PasarSegundo
+06/07/2016 08:24:25 p.m..29 WndProc FDCLOSE
+06/07/2016 08:24:26 p.m..25 PasarSegundo
+06/07/2016 08:26:19 p.m..88 WndProc FDCLOSE
+06/07/2016 08:26:20 p.m..79 PasarSegundo
+06/07/2016 08:28:47 p.m..95 WndProc FDCLOSE
+06/07/2016 08:28:48 p.m..45 PasarSegundo
+06/07/2016 08:30:20 p.m..54 WndProc FDCLOSE
+06/07/2016 08:30:21 p.m..42 PasarSegundo
+06/07/2016 08:30:34 p.m..13 WndProc FDCLOSE
+06/07/2016 08:30:34 p.m..31 PasarSegundo
+06/07/2016 08:32:28 p.m..96 TratarMinutoANtiCheat
+06/07/2016 08:32:37 p.m..05 WndProc FDCLOSE
+06/07/2016 08:32:45 p.m..48 WndProc FDCLOSE
+06/07/2016 08:32:45 p.m..65 PasarSegundo
+06/07/2016 08:33:40 p.m..30 WndProc FDCLOSE
+06/07/2016 08:33:41 p.m..27 PasarSegundo
+06/07/2016 08:33:58 p.m..98 WndProc FDCLOSE
+06/07/2016 08:33:58 p.m..98 EventoSockClose
+06/07/2016 08:39:27 p.m..20 WndProc FDCLOSE
+06/07/2016 08:39:27 p.m..70 PasarSegundo
+06/07/2016 08:58:29 p.m..45 TratarMinutoANtiCheat
+06/07/2016 08:58:48 p.m..34 WndProc FDCLOSE
+06/07/2016 09:03:42 p.m..38 WndProc FDCLOSE
+06/07/2016 09:03:42 p.m..98 PasarSegundo
+06/07/2016 09:08:21 p.m..07 WndProc FDCLOSE
+06/07/2016 09:08:21 p.m..26 PasarSegundo
+11/07/2016 11:15:58 p.m..70 WndProc FDCLOSE
+11/07/2016 11:16:01 p.m..14 EventoSockClose
+11/07/2016 11:16:05 p.m..22 WndProc FDCLOSE
+11/07/2016 11:16:05 p.m..22 EventoSockClose
+11/07/2016 11:21:42 p.m..26 WndProc FDCLOSE
+11/07/2016 11:21:42 p.m..99 PasarSegundo
+12/07/2016 08:25:32 p.m..92 TratarMinutoANtiCheat
+12/07/2016 08:26:05 p.m..61 WndProc FDCLOSE
+12/07/2016 08:37:08 p.m..28 WndProc FDCLOSE
+12/07/2016 08:37:08 p.m..61 PasarSegundo
+12/07/2016 08:42:38 p.m..88 WndProc FDCLOSE
+12/07/2016 08:42:39 p.m..13 PasarSegundo
+12/07/2016 08:45:07 p.m..88 WndProc FDCLOSE
+12/07/2016 08:45:08 p.m..90 PasarSegundo
+12/07/2016 08:49:10 p.m..41 WndProc FDCLOSE
+12/07/2016 08:49:10 p.m..48 PasarSegundo
+15/07/2016 02:15:20 p.m..48 WndProc FDCLOSE
+15/07/2016 02:15:20 p.m..99 PasarSegundo
+15/07/2016 02:16:48 p.m..94 WndProc FDCLOSE
+15/07/2016 02:16:49 p.m..43 PasarSegundo
+15/07/2016 02:19:41 p.m..73 WndProc FDCLOSE
+15/07/2016 02:19:42 p.m..79 PasarSegundo
+15/07/2016 02:24:28 p.m..29 WndProc FDCLOSE
+15/07/2016 02:24:28 p.m..29 EventoSockClose
+15/07/2016 04:03:48 p.m..93 WndProc FDCLOSE
+15/07/2016 04:03:49 p.m..01 PasarSegundo
+15/07/2016 04:19:52 p.m..42 TratarMinutoANtiCheat
+15/07/2016 04:19:52 p.m..61 WndProc FDCLOSE
+15/07/2016 04:19:58 p.m..14 WndProc FDCLOSE
+15/07/2016 04:19:58 p.m..14 EventoSockClose
+15/07/2016 04:22:12 p.m..33 WndProc FDCLOSE
+15/07/2016 04:22:13 p.m..39 PasarSegundo
+15/07/2016 04:26:52 p.m..70 TratarMinutoANtiCheat
+15/07/2016 04:26:52 p.m..91 WndProc FDCLOSE
+15/07/2016 04:34:59 p.m..03 WndProc FDCLOSE
+15/07/2016 04:35:00 p.m..18 PasarSegundo
+15/07/2016 04:46:09 p.m..85 WndProc FDCLOSE
+15/07/2016 05:01:53 p.m..97 WndProc FDCLOSE
+15/07/2016 05:02:45 p.m..43 WndProc FDCLOSE
+15/07/2016 05:02:45 p.m..98 PasarSegundo
+15/07/2016 05:08:03 p.m..91 WndProc FDCLOSE
+15/07/2016 05:08:03 p.m..91 EventoSockClose
+15/07/2016 05:15:39 p.m..29 WndProc FDCLOSE
+15/07/2016 05:15:40 p.m..38 PasarSegundo
+15/07/2016 05:17:43 p.m..04 WndProc FDCLOSE
+15/07/2016 05:17:44 p.m..11 PasarSegundo
+15/07/2016 05:18:53 p.m..97 TratarMinutoANtiCheat
+15/07/2016 05:18:54 p.m..72 WndProc FDCLOSE
+15/07/2016 05:18:59 p.m..10 WndProc FDCLOSE
+15/07/2016 05:18:59 p.m..64 PasarSegundo
+15/07/2016 05:22:58 p.m..63 WndProc FDCLOSE
+15/07/2016 05:22:59 p.m..30 PasarSegundo
+15/07/2016 05:23:56 p.m..97 WndProc FDCLOSE
+15/07/2016 05:23:57 p.m..82 PasarSegundo
+15/07/2016 05:24:40 p.m..25 WndProc FDCLOSE
+15/07/2016 05:24:41 p.m..20 PasarSegundo
+15/07/2016 05:26:46 p.m..12 WndProc FDCLOSE
+15/07/2016 05:26:46 p.m..12 EventoSockClose
+15/07/2016 05:44:09 p.m..61 WndProc FDCLOSE
+15/07/2016 05:44:10 p.m..18 PasarSegundo
+15/07/2016 05:44:35 p.m..03 WndProc FDCLOSE
+15/07/2016 05:44:36 p.m..22 PasarSegundo
+16/07/2016 03:22:00 p.m..68 WndProc FDCLOSE
+16/07/2016 03:22:01 p.m..62 PasarSegundo
+16/07/2016 03:34:36 p.m..81 TratarMinutoANtiCheat
+16/07/2016 03:36:09 p.m..62 WndProc FDCLOSE
+16/07/2016 03:41:19 p.m..09 WndProc FDCLOSE
+16/07/2016 03:41:20 p.m..20 PasarSegundo
+16/07/2016 03:42:00 p.m..87 WndProc FDCLOSE
+16/07/2016 03:42:01 p.m..78 PasarSegundo
+16/07/2016 03:45:47 p.m..87 WndProc FDCLOSE
+16/07/2016 03:45:48 p.m..80 PasarSegundo
+16/07/2016 03:57:37 p.m..83 WndProc FDCLOSE
+16/07/2016 04:00:44 p.m..18 WndProc FDCLOSE
+16/07/2016 04:00:44 p.m..70 PasarSegundo
+16/07/2016 04:06:53 p.m..87 WndProc FDCLOSE
+16/07/2016 04:06:54 p.m..67 PasarSegundo
+16/07/2016 04:10:33 p.m..84 WndProc FDCLOSE
+16/07/2016 04:10:34 p.m..91 PasarSegundo
+16/07/2016 04:13:45 p.m..49 WndProc FDCLOSE
+16/07/2016 04:13:46 p.m..68 PasarSegundo
+16/07/2016 04:18:38 p.m..28 TratarMinutoANtiCheat
+16/07/2016 04:18:39 p.m..05 WndProc FDCLOSE
+16/07/2016 04:18:46 p.m..28 WndProc FDCLOSE
+16/07/2016 04:18:47 p.m..19 PasarSegundo
+18/07/2016 08:25:32 p.m..62 WndProc FDCLOSE
+18/07/2016 08:25:32 p.m..98 PasarSegundo
+18/07/2016 08:29:01 p.m..19 WndProc FDCLOSE
+18/07/2016 08:29:01 p.m..96 PasarSegundo
+18/07/2016 08:30:36 p.m..45 TratarMinutoANtiCheat
+18/07/2016 08:30:36 p.m..58 WndProc FDCLOSE
+18/07/2016 08:34:36 p.m..63 TratarMinutoANtiCheat
+18/07/2016 08:34:36 p.m..85 WndProc FDCLOSE
+18/07/2016 08:36:36 p.m..89 TratarMinutoANtiCheat
+18/07/2016 08:36:37 p.m..39 WndProc FDCLOSE
+18/07/2016 08:38:37 p.m..41 TratarMinutoANtiCheat
+18/07/2016 08:38:37 p.m..58 WndProc FDCLOSE
+18/07/2016 08:40:20 p.m..80 WndProc FDCLOSE
+18/07/2016 08:40:21 p.m..86 PasarSegundo
+19/07/2016 12:08:19 a.m..77 WndProc FDCLOSE
+19/07/2016 12:08:20 a.m..17 PasarSegundo
+19/07/2016 12:27:55 a.m..74 WndProc FDCLOSE
+19/07/2016 12:27:55 a.m..74 EventoSockClose
+20/07/2016 03:54:36 p.m..28 WndProc FDCLOSE
+20/07/2016 03:54:36 p.m..95 PasarSegundo
+22/07/2016 07:40:27 p.m..83 WndProc FDCLOSE
+22/07/2016 07:40:28 p.m..36 PasarSegundo
+22/07/2016 08:03:32 p.m..40 TratarMinutoANtiCheat
+22/07/2016 08:03:32 p.m..55 WndProc FDCLOSE
+22/07/2016 08:06:31 p.m..94 WndProc FDCLOSE
+22/07/2016 08:06:32 p.m..96 PasarSegundo
+23/07/2016 01:23:08 a.m..66 WndProc FDCLOSE
+23/07/2016 01:23:08 a.m..92 PasarSegundo
+23/07/2016 01:27:11 a.m..81 WndProc FDCLOSE
+23/07/2016 01:27:11 a.m..81 WndProc FDCLOSE
+23/07/2016 01:27:11 a.m..81 EventoSockClose
+23/07/2016 01:32:53 a.m..32 WndProc FDCLOSE
+23/07/2016 01:32:53 a.m..96 PasarSegundo
+23/07/2016 02:28:40 a.m..85 TratarMinutoANtiCheat
+23/07/2016 02:28:47 a.m..45 WndProc FDCLOSE
+23/07/2016 02:29:40 a.m..99 TratarMinutoANtiCheat
+23/07/2016 02:29:41 a.m..15 WndProc FDCLOSE
+23/07/2016 02:33:41 a.m..26 TratarMinutoANtiCheat
+23/07/2016 02:33:41 a.m..43 WndProc FDCLOSE
+23/07/2016 06:59:55 p.m..69 WndProc FDCLOSE
+23/07/2016 06:59:56 p.m..88 PasarSegundo
+23/07/2016 07:14:42 p.m..82 WndProc FDCLOSE
+23/07/2016 07:14:43 p.m..23 PasarSegundo
+23/07/2016 07:19:58 p.m..43 WndProc FDCLOSE
+23/07/2016 07:19:59 p.m..05 PasarSegundo
+23/07/2016 07:21:25 p.m..00 WndProc FDCLOSE
+23/07/2016 07:21:25 p.m..54 PasarSegundo
+23/07/2016 07:36:34 p.m..05 TratarMinutoANtiCheat
+23/07/2016 07:36:34 p.m..20 WndProc FDCLOSE
+23/07/2016 07:37:06 p.m..60 WndProc FDCLOSE
+23/07/2016 07:37:07 p.m..61 PasarSegundo
+23/07/2016 07:42:29 p.m..44 WndProc FDCLOSE
+23/07/2016 07:42:29 p.m..99 PasarSegundo
+23/07/2016 07:48:33 p.m..74 WndProc FDCLOSE
+23/07/2016 07:48:34 p.m..02 PasarSegundo
+30/07/2016 12:55:43 a.m..55 WndProc FDCLOSE
+30/07/2016 12:55:43 a.m..91 PasarSegundo
+30/07/2016 01:15:04 a.m..24 WndProc FDCLOSE
+30/07/2016 01:15:05 a.m..12 PasarSegundo
+30/07/2016 01:32:27 a.m..37 WndProc FDCLOSE
+30/07/2016 01:32:27 a.m..44 PasarSegundo
+30/07/2016 01:36:00 a.m..89 WndProc FDCLOSE
+30/07/2016 01:36:00 a.m..89 EventoSockClose
+30/07/2016 01:46:45 a.m..81 WndProc FDCLOSE
+30/07/2016 01:46:46 a.m..35 PasarSegundo
+30/07/2016 01:47:41 a.m..43 WndProc FDCLOSE
+30/07/2016 01:47:41 a.m..57 PasarSegundo
+30/07/2016 01:49:56 a.m..99 WndProc FDCLOSE
+30/07/2016 01:49:57 a.m..76 PasarSegundo
+30/07/2016 02:02:15 a.m..53 WndProc FDCLOSE
+30/07/2016 02:02:15 a.m..62 PasarSegundo
+30/07/2016 02:17:41 a.m..95 WndProc FDCLOSE
+30/07/2016 02:58:43 a.m..21 WndProc FDCLOSE
+30/07/2016 03:05:47 a.m..50 WndProc FDCLOSE
+30/07/2016 03:05:48 a.m..14 PasarSegundo
+08/08/2016 08:43:58 p.m..23 WndProc FDCLOSE
+08/08/2016 08:43:58 p.m..73 PasarSegundo
+08/08/2016 09:02:06 p.m..68 WndProc FDCLOSE
+08/08/2016 09:40:09 p.m..99 WndProc FDCLOSE
+08/08/2016 09:40:10 p.m..30 PasarSegundo
+09/08/2016 08:21:36 p.m..78 TratarMinutoANtiCheat
+09/08/2016 08:21:51 p.m..70 WndProc FDCLOSE
+09/08/2016 08:24:49 p.m..97 WndProc FDCLOSE
+09/08/2016 08:24:50 p.m..33 PasarSegundo
+11/08/2016 08:26:20 p.m..37 WndProc FDCLOSE
+11/08/2016 08:26:21 p.m..41 PasarSegundo
+11/08/2016 08:27:05 p.m..27 WndProc FDCLOSE
+11/08/2016 08:27:05 p.m..88 PasarSegundo
+11/08/2016 08:31:37 p.m..81 WndProc FDCLOSE
+11/08/2016 08:31:38 p.m..95 PasarSegundo
+11/08/2016 08:34:10 p.m..12 WndProc FDCLOSE
+11/08/2016 08:34:11 p.m..10 PasarSegundo
+11/08/2016 08:37:06 p.m..21 WndProc FDCLOSE
+11/08/2016 08:37:06 p.m..79 PasarSegundo
+11/08/2016 08:48:00 p.m..10 TratarMinutoANtiCheat
+11/08/2016 08:50:00 p.m..41 WndProc FDCLOSE
+11/08/2016 09:13:01 p.m..11 AccLogged DoEfectosUsuarios
+11/08/2016 09:15:01 p.m..42 WndProc FDCLOSE
+11/08/2016 09:33:45 p.m..15 WndProc FDCLOSE
+11/08/2016 09:33:45 p.m..18 PasarSegundo
+11/08/2016 09:39:37 p.m..80 WndProc FDCLOSE
+11/08/2016 09:39:38 p.m..52 PasarSegundo
+11/08/2016 09:40:23 p.m..45 WndProc FDCLOSE
+11/08/2016 09:40:24 p.m..21 PasarSegundo
+11/08/2016 09:43:25 p.m..45 WndProc FDCLOSE
+11/08/2016 09:43:25 p.m..50 PasarSegundo
+11/08/2016 09:46:24 p.m..47 WndProc FDCLOSE
+11/08/2016 09:46:25 p.m..30 PasarSegundo
+11/08/2016 09:58:00 p.m..42 WndProc FDCLOSE
+11/08/2016 09:58:00 p.m..80 PasarSegundo
+12/08/2016 07:21:50 p.m..84 WndProc FDCLOSE
+12/08/2016 07:21:51 p.m..88 PasarSegundo
+12/08/2016 07:23:28 p.m..13 WndProc FDCLOSE
+12/08/2016 07:23:28 p.m..95 PasarSegundo
+12/08/2016 07:25:14 p.m..90 WndProc FDCLOSE
+12/08/2016 07:25:15 p.m..73 PasarSegundo
+12/08/2016 07:25:53 p.m..38 TratarMinutoANtiCheat
+12/08/2016 07:25:53 p.m..50 WndProc FDCLOSE
+12/08/2016 07:34:03 p.m..95 WndProc FDCLOSE
+12/08/2016 07:34:04 p.m..92 PasarSegundo
+12/08/2016 07:35:22 p.m..38 WndProc FDCLOSE
+12/08/2016 07:35:23 p.m..44 PasarSegundo
+13/08/2016 11:15:33 a.m..73 WndProc FDCLOSE
+13/08/2016 11:15:34 a.m..30 PasarSegundo
+13/08/2016 11:20:27 a.m..63 WndProc FDCLOSE
+13/08/2016 11:20:28 a.m..14 PasarSegundo
+13/08/2016 11:21:26 a.m..56 WndProc FDCLOSE
+13/08/2016 11:21:27 a.m..61 PasarSegundo
+13/08/2016 12:12:01 p.m..93 WndProc FDCLOSE
+13/08/2016 12:12:02 p.m..82 PasarSegundo
+13/08/2016 08:55:33 p.m..99 WndProc FDCLOSE
+13/08/2016 08:55:34 p.m..30 PasarSegundo
+13/08/2016 09:02:18 p.m..68 WndProc FDCLOSE
+13/08/2016 09:02:19 p.m..59 PasarSegundo
+14/08/2016 04:18:57 p.m..30 WndProc FDCLOSE
+14/08/2016 04:18:57 p.m..33 EventoSockClose
+14/08/2016 04:19:02 p.m..69 WndProc FDCLOSE
+14/08/2016 04:19:02 p.m..69 EventoSockClose
+14/08/2016 04:19:25 p.m..77 WndProc FDCLOSE
+14/08/2016 04:19:25 p.m..77 EventoSockClose
+14/08/2016 04:19:44 p.m..81 CrearPersonaje _ CharCrear
+14/08/2016 04:19:44 p.m..86 WndProc FDCLOSE
+14/08/2016 04:21:05 p.m..86 WndProc FDCLOSE
+14/08/2016 04:21:05 p.m..86 EventoSockClose
+14/08/2016 04:24:28 p.m..42 WndProc FDCLOSE
+14/08/2016 04:24:44 p.m..39 WndProc FDCLOSE
+14/08/2016 04:26:28 p.m..13 WndProc FDCLOSE
+14/08/2016 04:26:56 p.m..74 WndProc FDCLOSE
+14/08/2016 04:28:54 p.m..54 WndProc FDCLOSE
+14/08/2016 04:28:54 p.m..59 PasarSegundo
+14/08/2016 04:31:16 p.m..98 WndProc FDCLOSE
+14/08/2016 04:31:17 p.m..30 PasarSegundo
+14/08/2016 04:45:46 p.m..41 WndProc FDCLOSE
+14/08/2016 04:45:47 p.m..43 PasarSegundo
+14/08/2016 04:59:23 p.m..06 WndProc FDCLOSE
+14/08/2016 04:59:23 p.m..76 PasarSegundo
+14/08/2016 05:13:15 p.m..23 WndProc FDCLOSE
+14/08/2016 05:13:16 p.m..07 PasarSegundo
+14/08/2016 05:16:19 p.m..07 WndProc FDCLOSE
+14/08/2016 05:16:20 p.m..16 PasarSegundo
+14/08/2016 05:20:32 p.m..42 WndProc FDCLOSE
+14/08/2016 05:20:33 p.m..19 PasarSegundo
+14/08/2016 05:50:10 p.m..82 WndProc FDCLOSE
+14/08/2016 05:50:11 p.m..01 PasarSegundo
+18/08/2016 08:27:31 p.m..53 WndProc FDCLOSE
+18/08/2016 08:27:32 p.m..60 PasarSegundo
+18/08/2016 08:32:40 p.m..15 WndProc FDCLOSE
+18/08/2016 08:32:40 p.m..89 PasarSegundo
+18/08/2016 08:55:26 p.m..73 TratarMinutoANtiCheat
+18/08/2016 08:57:27 p.m..04 WndProc FDCLOSE
+18/08/2016 09:04:10 p.m..24 WndProc FDCLOSE
+18/08/2016 09:04:10 p.m..46 PasarSegundo
+18/08/2016 09:05:28 p.m..69 WndProc FDCLOSE
+18/08/2016 09:05:29 p.m..45 PasarSegundo
+18/08/2016 09:07:26 p.m..50 WndProc FDCLOSE
+18/08/2016 09:07:27 p.m..40 PasarSegundo
+18/08/2016 09:10:27 p.m..20 TratarMinutoANtiCheat
+18/08/2016 09:10:31 p.m..36 WndProc FDCLOSE
+18/08/2016 09:12:27 p.m..34 TratarMinutoANtiCheat
+18/08/2016 09:12:46 p.m..97 WndProc FDCLOSE
+18/08/2016 09:14:27 p.m..51 TratarMinutoANtiCheat
+18/08/2016 09:14:27 p.m..66 WndProc FDCLOSE
+18/08/2016 09:17:32 p.m..84 WndProc FDCLOSE
+18/08/2016 09:17:33 p.m..98 PasarSegundo
+22/08/2016 07:23:23 p.m..77 WndProc FDCLOSE
+22/08/2016 07:23:24 p.m..09 PasarSegundo
+22/08/2016 07:56:38 p.m..57 TratarMinutoANtiCheat
+22/08/2016 07:56:45 p.m..05 WndProc FDCLOSE
+22/08/2016 08:07:39 p.m..38 TratarMinutoANtiCheat
+22/08/2016 08:07:39 p.m..52 WndProc FDCLOSE
+22/08/2016 08:27:39 p.m..98 TratarMinutoANtiCheat
+22/08/2016 08:29:40 p.m..28 WndProc FDCLOSE
+22/08/2016 08:33:40 p.m..21 TratarMinutoANtiCheat
+22/08/2016 08:33:51 p.m..28 WndProc FDCLOSE
+23/08/2016 03:23:56 p.m..22 WndProc FDCLOSE
+23/08/2016 03:23:57 p.m..67 PasarSegundo
+23/08/2016 03:24:33 p.m..88 WndProc FDCLOSE
+23/08/2016 03:24:34 p.m..32 PasarSegundo
+23/08/2016 03:31:41 p.m..53 WndProc FDCLOSE
+23/08/2016 03:31:42 p.m..66 PasarSegundo
+23/08/2016 03:35:55 p.m..52 WndProc FDCLOSE
+23/08/2016 03:35:56 p.m..09 PasarSegundo
+23/08/2016 03:41:19 p.m..24 WndProc FDCLOSE
+23/08/2016 03:41:20 p.m..26 PasarSegundo
+23/08/2016 03:46:49 p.m..79 TratarMinutoANtiCheat
+23/08/2016 03:47:12 p.m..39 WndProc FDCLOSE
+23/08/2016 03:49:50 p.m..04 TratarMinutoANtiCheat
+23/08/2016 03:49:58 p.m..20 WndProc FDCLOSE
+23/08/2016 03:51:50 p.m..17 TratarMinutoANtiCheat
+23/08/2016 03:51:50 p.m..31 WndProc FDCLOSE
+23/08/2016 03:57:18 p.m..91 WndProc FDCLOSE
+23/08/2016 03:57:19 p.m..28 PasarSegundo
+25/08/2016 08:01:31 p.m..41 WndProc FDCLOSE
+25/08/2016 08:01:31 p.m..82 PasarSegundo
+27/08/2016 05:14:25 p.m..59 WndProc FDCLOSE
+27/08/2016 05:14:25 p.m..96 PasarSegundo
+27/08/2016 05:20:16 p.m..85 TratarMinutoANtiCheat
+27/08/2016 05:20:43 p.m..24 WndProc FDCLOSE
+27/08/2016 05:20:51 p.m..60 WndProc FDCLOSE
+27/08/2016 05:20:51 p.m..77 PasarSegundo
+27/08/2016 05:24:17 p.m..17 TratarMinutoANtiCheat
+27/08/2016 05:24:17 p.m..30 WndProc FDCLOSE
+27/08/2016 05:26:02 p.m..20 WndProc FDCLOSE
+27/08/2016 05:26:02 p.m..41 PasarSegundo
+27/08/2016 05:31:17 p.m..45 TratarMinutoANtiCheat
+27/08/2016 05:31:21 p.m..43 WndProc FDCLOSE
+27/08/2016 05:33:59 p.m..64 WndProc FDCLOSE
+27/08/2016 05:34:00 p.m..52 PasarSegundo
+27/08/2016 05:39:17 p.m..90 TratarMinutoANtiCheat
+27/08/2016 05:39:18 p.m..43 WndProc FDCLOSE
+27/08/2016 05:41:18 p.m..45 TratarMinutoANtiCheat
+27/08/2016 05:41:18 p.m..61 WndProc FDCLOSE
+27/08/2016 05:43:18 p.m..68 TratarMinutoANtiCheat
+27/08/2016 05:43:18 p.m..81 WndProc FDCLOSE
+27/08/2016 05:45:18 p.m..81 TratarMinutoANtiCheat
+27/08/2016 05:45:18 p.m..95 WndProc FDCLOSE
+27/08/2016 05:54:12 p.m..38 WndProc FDCLOSE
+27/08/2016 05:54:12 p.m..82 PasarSegundo
+27/08/2016 06:11:55 p.m..41 WndProc FDCLOSE
+27/08/2016 06:11:55 p.m..82 PasarSegundo
+27/08/2016 06:16:20 p.m..95 TratarMinutoANtiCheat
+27/08/2016 06:16:52 p.m..63 WndProc FDCLOSE
+27/08/2016 06:28:14 p.m..80 WndProc FDCLOSE
+27/08/2016 06:28:15 p.m..10 PasarSegundo
+27/08/2016 07:01:21 p.m..88 TratarMinutoANtiCheat
+27/08/2016 07:01:22 p.m..02 WndProc FDCLOSE
+27/08/2016 07:03:22 p.m..02 TratarMinutoANtiCheat
+27/08/2016 07:03:41 p.m..51 WndProc FDCLOSE
+27/08/2016 07:04:58 p.m..67 WndProc FDCLOSE
+27/08/2016 07:04:59 p.m..45 PasarSegundo
+27/08/2016 07:20:23 p.m..13 AccLogged DoEfectosUsuarios
+27/08/2016 07:20:23 p.m..19 WndProc FDCLOSE
+27/08/2016 07:38:22 p.m..86 TratarMinutoANtiCheat
+27/08/2016 07:38:23 p.m..03 WndProc FDCLOSE
+27/08/2016 07:48:24 p.m..41 WndProc FDCLOSE
+27/08/2016 07:48:25 p.m..38 PasarSegundo
+28/08/2016 12:48:36 p.m..11 WndProc FDCLOSE
+28/08/2016 12:48:36 p.m..43 PasarSegundo
+28/08/2016 12:52:35 p.m..39 TratarMinutoANtiCheat
+28/08/2016 12:52:35 p.m..59 WndProc FDCLOSE
+28/08/2016 12:54:39 p.m..11 WndProc FDCLOSE
+28/08/2016 12:54:39 p.m..16 PasarSegundo
+28/08/2016 04:36:36 p.m..32 WndProc FDCLOSE
+28/08/2016 04:36:36 p.m..35 PasarSegundo
+28/08/2016 04:42:30 p.m..81 TratarMinutoANtiCheat
+28/08/2016 04:42:30 p.m..93 WndProc FDCLOSE
+28/08/2016 04:43:49 p.m..68 WndProc FDCLOSE
+28/08/2016 04:43:50 p.m..59 PasarSegundo
+28/08/2016 04:52:41 p.m..88 WndProc FDCLOSE
+28/08/2016 04:52:42 p.m..78 PasarSegundo
+28/08/2016 04:54:43 p.m..17 WndProc FDCLOSE
+28/08/2016 04:54:44 p.m..18 PasarSegundo
+28/08/2016 04:56:57 p.m..51 TratarMinutoANtiCheat
+28/08/2016 04:57:26 p.m..00 WndProc FDCLOSE
+28/08/2016 04:57:41 p.m..59 WndProc FDCLOSE
+28/08/2016 04:58:05 p.m..70 WndProc FDCLOSE
+28/08/2016 04:58:06 p.m..04 PasarSegundo
+28/08/2016 04:58:34 p.m..72 WndProc FDCLOSE
+28/08/2016 04:58:35 p.m..79 PasarSegundo
+28/08/2016 04:59:48 p.m..78 WndProc FDCLOSE
+28/08/2016 04:59:56 p.m..33 WndProc FDCLOSE
+28/08/2016 05:00:02 p.m..05 WndProc FDCLOSE
+28/08/2016 05:00:26 p.m..02 WndProc FDCLOSE
+28/08/2016 05:00:36 p.m..29 WndProc FDCLOSE
+28/08/2016 05:01:57 p.m..90 TratarMinutoANtiCheat
+28/08/2016 05:01:58 p.m..04 WndProc FDCLOSE
+28/08/2016 05:02:29 p.m..24 WndProc FDCLOSE
+28/08/2016 05:02:29 p.m..42 PasarSegundo
+28/08/2016 05:08:58 p.m..12 TratarMinutoANtiCheat
+28/08/2016 05:08:58 p.m..33 WndProc FDCLOSE
+28/08/2016 05:09:58 p.m..34 TratarMinutoANtiCheat
+28/08/2016 05:09:58 p.m..47 WndProc FDCLOSE
+28/08/2016 05:11:19 p.m..87 WndProc FDCLOSE
+28/08/2016 05:11:20 p.m..52 PasarSegundo
+28/08/2016 05:13:33 p.m..67 WndProc FDCLOSE
+28/08/2016 05:13:34 p.m..11 PasarSegundo
+28/08/2016 05:15:33 p.m..01 WndProc FDCLOSE
+28/08/2016 05:15:34 p.m..14 PasarSegundo
+28/08/2016 05:16:31 p.m..11 WndProc FDCLOSE
+28/08/2016 05:16:31 p.m..32 PasarSegundo
+28/08/2016 05:19:44 p.m..17 WndProc FDCLOSE
+28/08/2016 05:19:45 p.m..28 PasarSegundo
+28/08/2016 05:30:16 p.m..79 WndProc FDCLOSE
+28/08/2016 05:30:17 p.m..05 PasarSegundo
+28/08/2016 05:32:41 p.m..31 WndProc FDCLOSE
+28/08/2016 05:32:42 p.m..10 PasarSegundo
+28/08/2016 08:20:36 p.m..33 WndProc FDCLOSE
+28/08/2016 08:20:36 p.m..54 PasarSegundo
+28/08/2016 08:43:09 p.m..30 WndProc FDCLOSE
+28/08/2016 08:43:10 p.m..08 PasarSegundo
+28/08/2016 08:56:55 p.m..37 WndProc FDCLOSE
+28/08/2016 08:56:55 p.m..92 PasarSegundo
+28/08/2016 09:41:47 p.m..33 WndProc FDCLOSE
+28/08/2016 09:41:48 p.m..23 PasarSegundo
+28/08/2016 09:43:04 p.m..31 WndProc FDCLOSE
+28/08/2016 09:43:04 p.m..33 PasarSegundo
+28/08/2016 09:45:41 p.m..80 WndProc FDCLOSE
+28/08/2016 09:45:42 p.m..19 PasarSegundo
+28/08/2016 10:01:32 p.m..13 AccLogged DoEfectosUsuarios
+28/08/2016 10:01:32 p.m..18 WndProc FDCLOSE
+28/08/2016 10:09:37 p.m..39 WndProc FDCLOSE
+28/08/2016 10:09:38 p.m..30 PasarSegundo
+28/08/2016 10:49:17 p.m..13 WndProc FDCLOSE
+28/08/2016 10:49:17 p.m..53 PasarSegundo
+28/08/2016 10:50:29 p.m..62 WndProc FDCLOSE
+28/08/2016 10:50:30 p.m..55 PasarSegundo
+28/08/2016 10:59:21 p.m..33 WndProc FDCLOSE
+28/08/2016 10:59:22 p.m..44 PasarSegundo
+28/08/2016 11:02:34 p.m..45 TratarMinutoANtiCheat
+28/08/2016 11:02:34 p.m..58 WndProc FDCLOSE
+28/08/2016 11:03:54 p.m..79 WndProc FDCLOSE
+28/08/2016 11:03:55 p.m..35 PasarSegundo
+28/08/2016 11:10:18 p.m..50 WndProc FDCLOSE
+28/08/2016 11:10:18 p.m..83 PasarSegundo
+29/08/2016 10:09:53 a.m..13 WndProc FDCLOSE
+29/08/2016 10:09:53 a.m..64 PasarSegundo
+29/08/2016 10:18:07 a.m..80 WndProc FDCLOSE
+29/08/2016 10:18:08 a.m..21 PasarSegundo
+29/08/2016 10:26:09 a.m..26 WndProc FDCLOSE
+29/08/2016 10:26:09 a.m..32 PasarSegundo
+29/08/2016 05:01:16 p.m..71 WndProc FDCLOSE
+29/08/2016 05:01:17 p.m..61 PasarSegundo
+29/08/2016 05:09:36 p.m..41 WndProc FDCLOSE
+29/08/2016 05:09:36 p.m..71 PasarSegundo
+29/08/2016 05:21:43 p.m..44 WndProc FDCLOSE
+29/08/2016 05:21:44 p.m..61 PasarSegundo
+30/08/2016 01:20:09 p.m..71 WndProc FDCLOSE
+30/08/2016 01:20:10 p.m..70 PasarSegundo
+30/08/2016 01:21:18 p.m..46 WndProc FDCLOSE
+30/08/2016 01:21:18 p.m..65 PasarSegundo
+30/08/2016 01:22:38 p.m..29 WndProc FDCLOSE
+30/08/2016 01:22:39 p.m..23 PasarSegundo
+01/09/2016 06:14:48 p.m..98 WndProc FDCLOSE
+01/09/2016 06:14:49 p.m..16 PasarSegundo
+01/09/2016 06:37:11 p.m..96 WndProc FDCLOSE
+01/09/2016 06:37:12 p.m..68 PasarSegundo
+12/09/2016 08:26:17 p.m..32 WndProc FDCLOSE
+12/09/2016 08:26:18 p.m..21 PasarSegundo
+16/09/2016 12:47:07 p.m..76 WndProc FDCLOSE
+16/09/2016 12:47:08 p.m..11 PasarSegundo
+16/09/2016 01:03:33 p.m..93 WndProc FDCLOSE
+16/09/2016 01:03:34 p.m..87 PasarSegundo
+16/09/2016 01:07:14 p.m..07 WndProc FDCLOSE
+16/09/2016 01:07:14 p.m..07 EventoSockClose
+16/09/2016 01:14:00 p.m..76 WndProc FDCLOSE
+16/09/2016 01:14:01 p.m..91 PasarSegundo
+16/09/2016 01:38:12 p.m..72 WndProc FDCLOSE
+16/09/2016 01:38:13 p.m..84 PasarSegundo
+16/09/2016 03:09:41 p.m..07 WndProc FDCLOSE
+16/09/2016 03:09:41 p.m..09 PasarSegundo
+16/09/2016 03:16:53 p.m..71 WndProc FDCLOSE
+16/09/2016 03:16:54 p.m..29 PasarSegundo
+16/09/2016 03:31:05 p.m..44 WndProc FDCLOSE
+16/09/2016 03:31:06 p.m..61 PasarSegundo
+16/09/2016 03:56:17 p.m..21 WndProc FDCLOSE
+16/09/2016 03:56:18 p.m..20 PasarSegundo
+16/09/2016 04:00:13 p.m..95 WndProc FDCLOSE
+16/09/2016 04:00:14 p.m..13 PasarSegundo
+24/09/2016 12:10:40 a.m..53 WndProc FDCLOSE
+24/09/2016 12:10:40 a.m..55 EventoSockClose
+24/09/2016 01:09:20 a.m..67 WndProc FDCLOSE
+24/09/2016 01:09:20 a.m..76 PasarSegundo
+24/09/2016 01:13:39 a.m..82 WndProc FDCLOSE
+24/09/2016 01:13:39 a.m..99 PasarSegundo
+24/09/2016 01:23:03 a.m..68 WndProc FDCLOSE
+24/09/2016 01:23:04 a.m..20 PasarSegundo
+24/09/2016 01:24:42 a.m..91 WndProc FDCLOSE
+24/09/2016 01:24:43 a.m..16 PasarSegundo
+24/09/2016 01:25:57 a.m..02 WndProc FDCLOSE
+24/09/2016 01:25:57 a.m..30 PasarSegundo
+24/09/2016 01:26:27 a.m..50 WndProc FDCLOSE
+24/09/2016 01:26:28 a.m..57 PasarSegundo
+24/09/2016 01:27:36 a.m..32 WndProc FDCLOSE
+24/09/2016 01:27:37 a.m..06 PasarSegundo
+24/09/2016 01:29:54 a.m..77 WndProc FDCLOSE
+24/09/2016 01:29:55 a.m..87 PasarSegundo
+24/09/2016 01:31:43 a.m..55 WndProc FDCLOSE
+24/09/2016 01:31:44 a.m..30 PasarSegundo
+24/09/2016 01:32:05 a.m..02 WndProc FDCLOSE
+24/09/2016 01:32:05 a.m..85 PasarSegundo
+24/09/2016 01:34:07 a.m..19 WndProc FDCLOSE
+24/09/2016 01:34:07 a.m..33 PasarSegundo
+24/09/2016 01:38:16 a.m..08 WndProc FDCLOSE
+24/09/2016 01:38:16 a.m..96 PasarSegundo
+24/09/2016 01:46:41 a.m..71 WndProc FDCLOSE
+24/09/2016 01:46:42 a.m..84 PasarSegundo
+24/09/2016 05:03:21 p.m..91 WndProc FDCLOSE
+24/09/2016 05:03:22 p.m..18 PasarSegundo
+24/09/2016 06:14:53 p.m..16 WndProc FDCLOSE
+24/09/2016 06:14:53 p.m..77 PasarSegundo
+24/09/2016 06:22:33 p.m..57 WndProc FDCLOSE
+24/09/2016 06:22:34 p.m..13 PasarSegundo
+24/09/2016 06:27:23 p.m..25 WndProc FDCLOSE
+24/09/2016 06:27:44 p.m..73 WndProc FDCLOSE
+24/09/2016 06:27:45 p.m..85 PasarSegundo
+24/09/2016 06:28:54 p.m..18 WndProc FDCLOSE
+24/09/2016 06:28:55 p.m..24 PasarSegundo
+24/09/2016 06:29:23 p.m..14 WndProc FDCLOSE
+24/09/2016 06:29:23 p.m..70 PasarSegundo
+24/09/2016 06:31:50 p.m..66 WndProc FDCLOSE
+24/09/2016 06:31:51 p.m..66 PasarSegundo
+11/10/2016 01:52:44 p.m..72 WndProc FDCLOSE
+11/10/2016 01:52:44 p.m..75 EventoSockClose
+11/10/2016 01:55:17 p.m..73 WndProc FDCLOSE
+11/10/2016 01:55:18 p.m..86 PasarSegundo
+11/10/2016 02:50:18 p.m..76 TratarMinutoANtiCheat
+11/10/2016 02:51:11 p.m..92 WndProc FDCLOSE
+11/10/2016 02:52:01 p.m..64 WndProc FDCLOSE
+11/10/2016 02:52:02 p.m..63 PasarSegundo
+11/10/2016 02:53:10 p.m..13 WndProc FDCLOSE
+11/10/2016 02:53:10 p.m..54 PasarSegundo
+11/10/2016 02:58:18 p.m..98 TratarMinutoANtiCheat
+11/10/2016 02:58:22 p.m..19 WndProc FDCLOSE
+11/10/2016 03:03:23 p.m..41 AccLogged DoEfectosUsuarios
+11/10/2016 03:03:23 p.m..46 WndProc FDCLOSE
+11/10/2016 04:27:33 p.m..13 WndProc FDCLOSE
+11/10/2016 04:27:33 p.m..70 PasarSegundo
+11/10/2016 04:27:48 p.m..79 WndProc FDCLOSE
+11/10/2016 04:27:49 p.m..44 PasarSegundo
+11/10/2016 04:31:33 p.m..28 WndProc FDCLOSE
+11/10/2016 04:31:33 p.m..85 PasarSegundo
+11/10/2016 04:32:45 p.m..16 WndProc FDCLOSE
+11/10/2016 04:32:46 p.m..25 PasarSegundo
+11/10/2016 04:34:20 p.m..39 TratarMinutoANtiCheat
+11/10/2016 04:34:34 p.m..24 WndProc FDCLOSE
+11/10/2016 04:36:30 p.m..89 WndProc FDCLOSE
+11/10/2016 04:36:31 p.m..53 PasarSegundo
+11/10/2016 04:38:32 p.m..21 WndProc FDCLOSE
+11/10/2016 04:38:33 p.m..10 PasarSegundo
+11/10/2016 05:17:57 p.m..94 WndProc FDCLOSE
+11/10/2016 05:17:58 p.m..64 PasarSegundo
+11/10/2016 05:19:29 p.m..71 TratarMinutoANtiCheat
+11/10/2016 05:19:29 p.m..85 WndProc FDCLOSE
+11/10/2016 05:34:26 p.m..59 WndProc FDCLOSE
+11/10/2016 05:34:26 p.m..61 PasarSegundo
+12/10/2016 08:35:00 p.m..85 WndProc FDCLOSE
+12/10/2016 08:35:02 p.m..05 PasarSegundo
+12/10/2016 08:40:44 p.m..09 WndProc FDCLOSE
+12/10/2016 08:40:44 p.m..75 PasarSegundo
+12/10/2016 09:01:33 p.m..23 WndProc FDCLOSE
+12/10/2016 09:01:34 p.m..02 PasarSegundo
+12/10/2016 09:04:30 p.m..35 WndProc FDCLOSE
+12/10/2016 09:04:31 p.m..02 PasarSegundo
+12/10/2016 09:05:43 p.m..58 WndProc FDCLOSE
+12/10/2016 09:05:44 p.m..19 PasarSegundo
+12/10/2016 09:07:23 p.m..40 WndProc FDCLOSE
+12/10/2016 09:07:24 p.m..23 PasarSegundo
+14/10/2016 01:51:07 p.m..14 WndProc FDCLOSE
+14/10/2016 01:51:08 p.m..32 PasarSegundo
+14/10/2016 02:07:50 p.m..92 WndProc FDCLOSE
+14/10/2016 02:07:51 p.m..70 PasarSegundo
+14/10/2016 02:13:37 p.m..25 WndProc FDCLOSE
+14/10/2016 02:13:37 p.m..83 PasarSegundo
+14/10/2016 07:07:39 p.m..68 WndProc FDCLOSE
+14/10/2016 07:07:40 p.m..26 PasarSegundo
+14/10/2016 07:34:35 p.m..99 WndProc FDCLOSE
+14/10/2016 07:34:36 p.m..54 PasarSegundo
+14/10/2016 07:37:43 p.m..76 WndProc FDCLOSE
+14/10/2016 07:37:44 p.m..95 PasarSegundo
+15/10/2016 06:41:00 p.m..43 WndProc FDCLOSE
+15/10/2016 06:41:01 p.m..46 PasarSegundo
+15/10/2016 07:05:32 p.m..85 WndProc FDCLOSE
+15/10/2016 07:05:32 p.m..99 PasarSegundo
+15/10/2016 07:15:57 p.m..80 WndProc FDCLOSE
+15/10/2016 07:15:57 p.m..94 PasarSegundo
+16/10/2016 06:29:11 p.m..47 WndProc FDCLOSE
+16/10/2016 06:29:12 p.m..00 PasarSegundo
+16/10/2016 06:33:16 p.m..56 WndProc FDCLOSE
+16/10/2016 06:33:17 p.m..63 PasarSegundo
+16/10/2016 06:56:49 p.m..59 WndProc FDCLOSE
+16/10/2016 06:56:50 p.m..46 PasarSegundo
+16/10/2016 07:00:36 p.m..05 WndProc FDCLOSE
+16/10/2016 07:00:36 p.m..30 PasarSegundo
+16/10/2016 07:03:12 p.m..11 WndProc FDCLOSE
+16/10/2016 07:03:13 p.m..04 PasarSegundo
+16/10/2016 07:45:07 p.m..80 WndProc FDCLOSE
+16/10/2016 07:45:08 p.m..76 PasarSegundo
+16/10/2016 11:38:52 p.m..26 WndProc FDCLOSE
+16/10/2016 11:38:53 p.m..41 PasarSegundo
+16/10/2016 11:56:31 p.m..59 WndProc FDCLOSE
+16/10/2016 11:56:31 p.m..88 PasarSegundo
+20/10/2016 07:47:28 p.m..33 WndProc FDCLOSE
+20/10/2016 07:47:29 p.m..02 PasarSegundo
+20/10/2016 08:24:30 p.m..62 WndProc FDCLOSE
+20/10/2016 08:24:31 p.m..09 PasarSegundo
+20/10/2016 08:36:35 p.m..95 WndProc FDCLOSE
+20/10/2016 08:36:36 p.m..11 PasarSegundo
+20/10/2016 08:38:28 p.m..37 WndProc FDCLOSE
+20/10/2016 08:38:29 p.m..07 PasarSegundo
+21/10/2016 03:54:23 p.m..03 WndProc FDCLOSE
+21/10/2016 03:54:23 p.m..36 PasarSegundo
+21/10/2016 03:56:29 p.m..89 WndProc FDCLOSE
+21/10/2016 03:56:31 p.m..03 PasarSegundo
+21/10/2016 03:57:08 p.m..60 WndProc FDCLOSE
+21/10/2016 03:57:09 p.m..50 PasarSegundo
+21/10/2016 07:33:45 p.m..83 WndProc FDCLOSE
+21/10/2016 07:33:45 p.m..89 EventoSockClose
+21/10/2016 07:33:48 p.m..39 WndProc FDCLOSE
+21/10/2016 07:33:48 p.m..39 EventoSockClose
+21/10/2016 07:33:54 p.m..93 WndProc FDCLOSE
+21/10/2016 07:33:54 p.m..93 EventoSockClose
+21/10/2016 08:01:02 p.m..49 WndProc FDCLOSE
+21/10/2016 08:01:03 p.m..32 PasarSegundo
+21/10/2016 08:06:51 p.m..17 WndProc FDCLOSE
+21/10/2016 08:06:51 p.m..20 PasarSegundo
+21/10/2016 08:08:41 p.m..38 WndProc FDCLOSE
+21/10/2016 08:08:41 p.m..41 PasarSegundo
+21/10/2016 08:23:45 p.m..68 AccLogged DoEfectosUsuarios
+21/10/2016 08:23:45 p.m..74 WndProc FDCLOSE
+21/10/2016 08:44:04 p.m..62 WndProc FDCLOSE
+21/10/2016 08:44:05 p.m..39 PasarSegundo
+22/10/2016 12:26:57 a.m..35 WndProc FDCLOSE
+22/10/2016 12:26:58 a.m..08 PasarSegundo
+22/10/2016 12:27:35 a.m..01 WndProc FDCLOSE
+22/10/2016 12:27:35 a.m..71 PasarSegundo
+22/10/2016 12:31:06 a.m..46 WndProc FDCLOSE
+22/10/2016 12:31:06 a.m..94 PasarSegundo
+22/10/2016 12:33:28 a.m..12 WndProc FDCLOSE
+22/10/2016 12:33:28 a.m..98 PasarSegundo
+22/10/2016 12:36:01 a.m..13 WndProc FDCLOSE
+22/10/2016 12:36:02 a.m..28 PasarSegundo
+22/10/2016 12:43:53 a.m..71 WndProc FDCLOSE
+22/10/2016 12:43:54 a.m..64 PasarSegundo
+22/10/2016 01:04:08 a.m..50 WndProc FDCLOSE
+22/10/2016 01:04:08 a.m..57 PasarSegundo
+22/10/2016 01:10:59 a.m..66 WndProc FDCLOSE
+22/10/2016 01:11:00 a.m..26 PasarSegundo
+22/10/2016 01:31:50 a.m..18 WndProc FDCLOSE
+22/10/2016 01:31:50 a.m..52 PasarSegundo
+23/10/2016 07:43:03 p.m..57 WndProc FDCLOSE
+23/10/2016 07:43:03 p.m..59 EventoSockClose
+23/10/2016 07:44:20 p.m..73 WndProc FDCLOSE
+23/10/2016 07:44:21 p.m..76 PasarSegundo
+23/10/2016 07:49:31 p.m..13 WndProc FDCLOSE
+23/10/2016 07:49:48 p.m..16 WndProc FDCLOSE
+23/10/2016 07:50:15 p.m..95 WndProc FDCLOSE
+23/10/2016 07:52:42 p.m..32 WndProc FDCLOSE
+23/10/2016 07:52:42 p.m..32 EventoSockClose
+24/10/2016 01:57:57 p.m..88 WndProc FDCLOSE
+24/10/2016 01:57:57 p.m..95 EventoSockClose
+24/10/2016 01:58:23 p.m..05 WndProc FDCLOSE
+24/10/2016 01:58:23 p.m..66 PasarSegundo
+24/10/2016 02:46:29 p.m..32 WndProc FDCLOSE
+24/10/2016 02:46:29 p.m..32 EventoSockClose
+24/10/2016 03:00:56 p.m..18 WndProc FDCLOSE
+24/10/2016 03:00:57 p.m..16 PasarSegundo
+24/10/2016 03:17:20 p.m..64 WndProc FDCLOSE
+24/10/2016 03:17:20 p.m..72 PasarSegundo
+24/10/2016 03:17:33 p.m..07 WndProc FDCLOSE
+24/10/2016 03:17:33 p.m..21 PasarSegundo
+24/10/2016 03:18:41 p.m..06 WndProc FDCLOSE
+24/10/2016 03:18:42 p.m..02 PasarSegundo
+24/10/2016 03:19:27 p.m..92 WndProc FDCLOSE
+24/10/2016 03:19:28 p.m..41 PasarSegundo
+24/10/2016 03:21:54 p.m..66 Deslogueado DoEfectosUsuarios
+24/10/2016 03:21:54 p.m..97 WndProc FDCLOSE
+24/10/2016 03:22:42 p.m..74 WndProc FDCLOSE
+24/10/2016 03:22:43 p.m..50 PasarSegundo
+24/10/2016 03:23:49 p.m..60 Deslogueado DoEfectosUsuarios
+24/10/2016 03:23:54 p.m..02 WndProc FDCLOSE
+24/10/2016 03:29:08 p.m..66 WndProc FDCLOSE
+24/10/2016 06:43:44 p.m..92 WndProc FDCLOSE
+24/10/2016 06:43:45 p.m..69 PasarSegundo
+24/10/2016 06:44:20 p.m..45 WndProc FDCLOSE
+24/10/2016 06:44:20 p.m..77 PasarSegundo
+24/10/2016 06:45:44 p.m..02 WndProc FDCLOSE
+24/10/2016 07:01:59 p.m..21 WndProc FDCLOSE
+24/10/2016 07:02:55 p.m..76 WndProc FDCLOSE
+24/10/2016 07:03:18 p.m..38 WndProc FDCLOSE
+24/10/2016 07:07:17 p.m..43 WndProc FDCLOSE
+24/10/2016 07:07:17 p.m..43 EventoSockClose
+24/10/2016 07:10:09 p.m..16 WndProc FDCLOSE
+24/10/2016 07:10:09 p.m..98 PasarSegundo
+24/10/2016 08:09:55 p.m..52 WndProc FDCLOSE
+24/10/2016 08:09:56 p.m..68 PasarSegundo
+24/10/2016 08:11:46 p.m..93 WndProc FDCLOSE
+24/10/2016 08:11:47 p.m..95 PasarSegundo
+24/10/2016 08:14:38 p.m..16 WndProc FDCLOSE
+24/10/2016 08:14:38 p.m..38 PasarSegundo
+24/10/2016 08:19:51 p.m..91 WndProc FDCLOSE
+24/10/2016 08:19:52 p.m..09 PasarSegundo
+25/10/2016 07:29:00 p.m..71 WndProc FDCLOSE
+25/10/2016 07:29:01 p.m..30 PasarSegundo
+25/10/2016 07:31:01 p.m..72 WndProc FDCLOSE
+25/10/2016 07:31:02 p.m..59 PasarSegundo
+28/10/2016 06:19:11 p.m..59 WndProc FDCLOSE
+28/10/2016 06:19:12 p.m..42 PasarSegundo
+28/10/2016 06:19:32 p.m..44 WndProc FDCLOSE
+28/10/2016 06:19:32 p.m..97 PasarSegundo
+28/10/2016 06:21:05 p.m..52 WndProc FDCLOSE
+28/10/2016 06:21:06 p.m..43 PasarSegundo
+28/10/2016 06:21:39 p.m..83 WndProc FDCLOSE
+28/10/2016 06:21:40 p.m..16 PasarSegundo
+28/10/2016 06:24:29 p.m..04 TratarMinutoANtiCheat
+28/10/2016 06:24:29 p.m..28 WndProc FDCLOSE
+28/10/2016 06:31:08 p.m..27 WndProc FDCLOSE
+28/10/2016 06:31:08 p.m..52 PasarSegundo
+28/10/2016 07:16:30 p.m..42 TratarMinutoANtiCheat
+28/10/2016 07:16:30 p.m..58 WndProc FDCLOSE
+28/10/2016 07:19:30 p.m..65 TratarMinutoANtiCheat
+28/10/2016 07:21:30 p.m..96 WndProc FDCLOSE
+28/10/2016 07:28:33 p.m..14 WndProc FDCLOSE
+28/10/2016 07:28:33 p.m..88 PasarSegundo
+28/10/2016 07:55:58 p.m..65 WndProc FDCLOSE
+28/10/2016 07:55:58 p.m..65 EventoSockClose
+15/03/2017 09:35:24 p.m..26 Deslogueado DoEfectosUsuarios
+15/03/2017 09:35:24 p.m..29 WndProc FDCLOSE
+12/05/2017 08:09:36 p.m..07 Deslogueado DoEfectosUsuarios
+12/05/2017 08:09:47 p.m..25 WndProc FDCLOSE
+12/05/2017 08:09:55 p.m..62 WndProc FDCLOSE
+12/05/2017 08:09:55 p.m..62 EventoSockClose
+12/05/2017 08:09:55 p.m..73 WndProc FDCLOSE
+12/05/2017 08:10:18 p.m..02 WndProc FDCLOSE
+12/05/2017 08:11:05 p.m..16 WndProc FDCLOSE
+12/05/2017 08:16:56 p.m..22 WndProc FDCLOSE
+12/05/2017 08:16:56 p.m..22 EventoSockClose
+12/05/2017 08:20:05 p.m..08 WndProc FDCLOSE
+12/05/2017 08:20:05 p.m..08 EventoSockClose
+14/05/2017 03:13:02 a.m..05 WndProc FDCLOSE
+14/05/2017 03:14:19 a.m..49 WndProc FDCLOSE
+14/05/2017 03:14:19 a.m..49 EventoSockClose
+14/05/2017 02:17:57 p.m..84 Deslogueado DoEfectosUsuarios
+14/05/2017 02:18:57 p.m..39 WndProc FDCLOSE
+14/05/2017 02:40:39 p.m..94 WndProc FDCLOSE
+14/05/2017 02:40:40 p.m..00 PasarSegundo
+14/05/2017 02:56:50 p.m..75 WndProc FDCLOSE
+14/05/2017 02:56:50 p.m..75 EventoSockClose
+14/05/2017 03:10:43 p.m..63 WndProc FDCLOSE
+14/05/2017 03:10:43 p.m..63 EventoSockClose
+14/05/2017 03:15:54 p.m..61 Deslogueado DoEfectosUsuarios
+14/05/2017 03:15:54 p.m..61 WndProc FDCLOSE
+14/05/2017 03:16:08 p.m..03 Deslogueado DoEfectosUsuarios
+14/05/2017 03:16:08 p.m..04 WndProc FDCLOSE
+24/05/2017 05:52:07 p.m..72 WndProc FDCLOSE
+24/05/2017 05:52:08 p.m..53 EventoSockClose
+24/05/2017 05:55:38 p.m..02 WndProc FDCLOSE
+24/05/2017 05:55:38 p.m..66 PasarSegundo
+24/05/2017 05:57:47 p.m..66 WndProc FDCLOSE
+24/05/2017 05:57:48 p.m..39 PasarSegundo
+24/05/2017 06:14:38 p.m..34 WndProc FDCLOSE
+24/05/2017 06:14:39 p.m..08 PasarSegundo
+24/05/2017 08:33:55 p.m..55 WndProc FDCLOSE
+24/05/2017 08:33:56 p.m..10 PasarSegundo
+24/05/2017 08:37:59 p.m..66 TratarMinutoANtiCheat
+24/05/2017 08:37:59 p.m..79 WndProc FDCLOSE
+24/05/2017 08:47:00 p.m..05 TratarMinutoANtiCheat
+24/05/2017 08:47:00 p.m..20 WndProc FDCLOSE
+24/05/2017 08:48:00 p.m..22 TratarMinutoANtiCheat
+24/05/2017 08:48:00 p.m..34 WndProc FDCLOSE
+24/05/2017 08:52:00 p.m..38 TratarMinutoANtiCheat
+24/05/2017 08:52:00 p.m..51 WndProc FDCLOSE
+24/05/2017 08:52:02 p.m..64 WndProc FDCLOSE
+24/05/2017 08:52:02 p.m..64 EventoSockClose
+24/05/2017 08:53:00 p.m..52 TratarMinutoANtiCheat
+24/05/2017 08:53:00 p.m..63 WndProc FDCLOSE
+24/05/2017 08:55:36 p.m..80 WndProc FDCLOSE
+24/05/2017 08:55:37 p.m..40 PasarSegundo
+28/05/2017 01:00:03 a.m..94 WndProc FDCLOSE
+28/05/2017 01:00:04 a.m..94 PasarSegundo
+28/05/2017 11:30:25 a.m..24 TratarMinutoANtiCheat
+28/05/2017 11:30:25 a.m..41 WndProc FDCLOSE
+28/05/2017 11:31:25 a.m..43 TratarMinutoANtiCheat
+28/05/2017 11:31:25 a.m..53 WndProc FDCLOSE
+28/05/2017 11:33:25 a.m..55 TratarMinutoANtiCheat
+28/05/2017 11:33:25 a.m..63 WndProc FDCLOSE
+28/05/2017 11:40:45 a.m..99 WndProc FDCLOSE
+28/05/2017 11:40:46 a.m..86 PasarSegundo
+28/05/2017 11:42:00 a.m..31 WndProc FDCLOSE
+28/05/2017 11:42:00 a.m..60 PasarSegundo
+28/05/2017 12:31:26 p.m..64 TratarMinutoANtiCheat
+28/05/2017 12:31:31 p.m..14 WndProc FDCLOSE
+28/05/2017 12:33:26 p.m..83 TratarMinutoANtiCheat
+28/05/2017 12:33:26 p.m..92 WndProc FDCLOSE
+28/05/2017 12:33:45 p.m..57 WndProc FDCLOSE
+28/05/2017 12:33:46 p.m..36 PasarSegundo
+28/05/2017 12:43:07 p.m..43 WndProc FDCLOSE
+28/05/2017 12:43:07 p.m..65 PasarSegundo
+28/05/2017 12:50:27 p.m..23 TratarMinutoANtiCheat
+28/05/2017 12:50:27 p.m..38 WndProc FDCLOSE
+28/05/2017 12:53:23 p.m..10 WndProc FDCLOSE
+28/05/2017 12:53:23 p.m..45 PasarSegundo
+28/05/2017 12:55:27 p.m..61 TratarMinutoANtiCheat
+28/05/2017 12:55:27 p.m..72 WndProc FDCLOSE
+28/05/2017 12:56:07 p.m..20 WndProc FDCLOSE
+28/05/2017 12:56:07 p.m..83 PasarSegundo
+28/05/2017 03:07:31 p.m..77 AccLogged DoEfectosUsuarios
+28/05/2017 03:09:32 p.m..07 WndProc FDCLOSE
+28/05/2017 03:19:16 p.m..79 WndProc FDCLOSE
+28/05/2017 03:19:17 p.m..16 PasarSegundo
+28/05/2017 03:23:25 p.m..88 WndProc FDCLOSE
+28/05/2017 03:23:26 p.m..08 PasarSegundo
+28/05/2017 03:30:37 p.m..23 WndProc FDCLOSE
+28/05/2017 03:30:37 p.m..54 PasarSegundo
+28/05/2017 03:54:30 p.m..93 AccLogged DoEfectosUsuarios
+28/05/2017 03:54:30 p.m..99 WndProc FDCLOSE
+28/05/2017 03:59:03 p.m..95 WndProc FDCLOSE
+28/05/2017 03:59:04 p.m..37 PasarSegundo
+28/05/2017 04:07:52 p.m..86 WndProc FDCLOSE
+28/05/2017 04:07:53 p.m..76 PasarSegundo
+28/05/2017 04:11:36 p.m..05 WndProc FDCLOSE
+28/05/2017 04:11:37 p.m..14 PasarSegundo
+28/05/2017 04:14:16 p.m..44 WndProc FDCLOSE
+28/05/2017 04:14:17 p.m..18 PasarSegundo
+28/05/2017 05:07:30 p.m..28 WndProc FDCLOSE
+28/05/2017 05:07:30 p.m..79 PasarSegundo
+28/05/2017 05:29:55 p.m..41 WndProc FDCLOSE
+28/05/2017 05:29:56 p.m..31 PasarSegundo
+28/05/2017 05:33:05 p.m..07 WndProc FDCLOSE
+28/05/2017 05:33:05 p.m..66 PasarSegundo
+28/05/2017 05:45:53 p.m..80 WndProc FDCLOSE
+28/05/2017 05:45:54 p.m..44 PasarSegundo
+28/05/2017 08:22:53 p.m..58 WndProc FDCLOSE
+28/05/2017 08:22:53 p.m..90 PasarSegundo
+28/05/2017 10:39:02 p.m..91 WndProc FDCLOSE
+28/05/2017 10:39:03 p.m..75 PasarSegundo
+28/05/2017 10:40:52 p.m..59 WndProc FDCLOSE
+28/05/2017 10:40:52 p.m..65 PasarSegundo
+28/05/2017 10:56:09 p.m..87 WndProc FDCLOSE
+28/05/2017 10:56:10 p.m..72 PasarSegundo
+28/05/2017 10:57:58 p.m..84 WndProc FDCLOSE
+28/05/2017 10:57:59 p.m..59 PasarSegundo
+03/06/2017 04:29:51 p.m..25 WndProc FDCLOSE
+03/06/2017 04:29:52 p.m..24 PasarSegundo
+03/06/2017 04:32:06 p.m..89 WndProc FDCLOSE
+03/06/2017 04:32:07 p.m..97 PasarSegundo
+03/06/2017 04:40:19 p.m..69 WndProc FDCLOSE
+03/06/2017 04:40:19 p.m..96 PasarSegundo
+04/06/2017 07:18:50 p.m..29 WndProc FDCLOSE
+04/06/2017 07:18:50 p.m..70 PasarSegundo
+04/06/2017 07:24:50 p.m..88 TratarMinutoANtiCheat
+04/06/2017 07:24:50 p.m..99 WndProc FDCLOSE
+04/06/2017 07:34:51 p.m..19 TratarMinutoANtiCheat
+04/06/2017 07:34:51 p.m..30 WndProc FDCLOSE
+04/06/2017 07:58:51 p.m..63 TratarMinutoANtiCheat
+04/06/2017 07:59:00 p.m..35 WndProc FDCLOSE
+04/06/2017 07:59:38 p.m..63 WndProc FDCLOSE
+04/06/2017 07:59:39 p.m..52 PasarSegundo
+04/06/2017 08:11:51 p.m..90 TratarMinutoANtiCheat
+04/06/2017 08:11:51 p.m..98 WndProc FDCLOSE
+04/06/2017 08:13:52 p.m..00 TratarMinutoANtiCheat
+04/06/2017 08:14:57 p.m..24 WndProc FDCLOSE
+04/06/2017 08:17:52 p.m..26 TratarMinutoANtiCheat
+04/06/2017 08:17:52 p.m..36 WndProc FDCLOSE
+04/06/2017 08:24:52 p.m..48 TratarMinutoANtiCheat
+04/06/2017 08:24:52 p.m..57 WndProc FDCLOSE
+04/06/2017 08:33:35 p.m..77 WndProc FDCLOSE
+04/06/2017 08:33:36 p.m..84 PasarSegundo
+04/06/2017 08:37:14 p.m..57 WndProc FDCLOSE
+04/06/2017 08:37:15 p.m..06 PasarSegundo
+04/06/2017 08:41:00 p.m..70 WndProc FDCLOSE
+04/06/2017 08:41:00 p.m..75 PasarSegundo
+10/06/2017 11:08:58 a.m..93 WndProc FDCLOSE
+10/06/2017 11:08:59 a.m..84 PasarSegundo
+10/06/2017 11:18:48 a.m..76 TratarMinutoANtiCheat
+10/06/2017 11:18:49 a.m..01 WndProc FDCLOSE
+10/06/2017 11:19:41 a.m..15 WndProc FDCLOSE
+10/06/2017 11:19:42 a.m..30 PasarSegundo
+10/06/2017 11:44:44 a.m..44 WndProc FDCLOSE
+10/06/2017 11:44:44 a.m..74 PasarSegundo
+10/06/2017 12:24:42 p.m..04 TratarMinutoANtiCheat
+10/06/2017 12:24:42 p.m..19 WndProc FDCLOSE
+10/06/2017 12:25:28 p.m..57 WndProc FDCLOSE
+10/06/2017 12:25:29 p.m..70 PasarSegundo
+10/06/2017 12:28:14 p.m..15 WndProc FDCLOSE
+10/06/2017 12:28:15 p.m..25 PasarSegundo
+10/06/2017 12:33:49 p.m..77 WndProc FDCLOSE
+10/06/2017 12:33:50 p.m..41 PasarSegundo
+10/06/2017 12:43:42 p.m..58 TratarMinutoANtiCheat
+10/06/2017 12:45:14 p.m..11 WndProc FDCLOSE
+10/06/2017 12:48:42 p.m..90 TratarMinutoANtiCheat
+10/06/2017 12:48:43 p.m..02 WndProc FDCLOSE
+10/06/2017 12:50:23 p.m..61 WndProc FDCLOSE
+10/06/2017 12:50:23 p.m..91 PasarSegundo
+10/06/2017 05:52:49 p.m..76 AccLogged DoEfectosUsuarios
+10/06/2017 05:52:49 p.m..82 WndProc FDCLOSE
+10/06/2017 05:52:49 p.m..82 WndProc FDCLOSE
+10/06/2017 09:41:39 p.m..29 WndProc FDCLOSE
+10/06/2017 09:41:39 p.m..51 PasarSegundo
+10/06/2017 09:44:17 p.m..98 TratarMinutoANtiCheat
+10/06/2017 09:44:31 p.m..53 WndProc FDCLOSE
+10/06/2017 10:00:20 p.m..84 AccLogged DoEfectosUsuarios
+10/06/2017 10:02:21 p.m..16 WndProc FDCLOSE
+10/06/2017 10:46:34 p.m..82 WndProc FDCLOSE
+10/06/2017 10:46:35 p.m..80 PasarSegundo
+10/06/2017 10:49:19 p.m..18 TratarMinutoANtiCheat
+10/06/2017 10:49:19 p.m..38 WndProc FDCLOSE
+10/06/2017 10:49:59 p.m..40 WndProc FDCLOSE
+10/06/2017 10:49:59 p.m..87 PasarSegundo
+10/06/2017 10:50:19 p.m..98 WndProc FDCLOSE
+10/06/2017 10:50:20 p.m..27 PasarSegundo
+10/06/2017 10:52:39 p.m..56 WndProc FDCLOSE
+10/06/2017 10:52:40 p.m..66 PasarSegundo
+10/06/2017 11:06:43 p.m..57 WndProc FDCLOSE
+10/06/2017 11:06:43 p.m..89 PasarSegundo
+10/06/2017 11:11:32 p.m..66 WndProc FDCLOSE
+10/06/2017 11:11:33 p.m..82 PasarSegundo
+10/06/2017 11:15:19 p.m..89 TratarMinutoANtiCheat
+10/06/2017 11:15:20 p.m..01 WndProc FDCLOSE
+10/06/2017 11:17:01 p.m..97 WndProc FDCLOSE
+10/06/2017 11:17:02 p.m..73 PasarSegundo
+10/06/2017 11:19:20 p.m..10 TratarMinutoANtiCheat
+10/06/2017 11:19:20 p.m..20 WndProc FDCLOSE
+10/06/2017 11:46:21 p.m..78 AccLogged DoEfectosUsuarios
+10/06/2017 11:48:22 p.m..10 WndProc FDCLOSE
+11/06/2017 12:14:08 a.m..08 WndProc FDCLOSE
+11/06/2017 12:14:08 a.m..52 PasarSegundo
+11/06/2017 01:22:16 a.m..98 TratarMinutoANtiCheat
+11/06/2017 01:22:17 a.m..07 WndProc FDCLOSE
+11/06/2017 01:24:19 a.m..31 Deslogueado DoEfectosUsuarios
+11/06/2017 01:24:19 a.m..33 WndProc FDCLOSE
+11/06/2017 01:26:45 a.m..23 WndProc FDCLOSE
+11/06/2017 01:26:46 a.m..22 PasarSegundo
+11/06/2017 02:07:13 a.m..00 AccLogged DoEfectosUsuarios
+11/06/2017 02:09:13 a.m..32 WndProc FDCLOSE
+11/06/2017 08:38:51 a.m..71 WndProc FDCLOSE
+11/06/2017 08:38:52 a.m..77 PasarSegundo
+11/06/2017 08:50:24 a.m..99 WndProc FDCLOSE
+11/06/2017 08:50:25 a.m..10 PasarSegundo
+13/06/2017 08:26:16 p.m..43 WndProc FDCLOSE
+13/06/2017 08:26:16 p.m..91 PasarSegundo
+13/06/2017 08:48:24 p.m..94 WndProc FDCLOSE
+13/06/2017 08:48:25 p.m..49 PasarSegundo
+13/06/2017 08:49:19 p.m..00 WndProc FDCLOSE
+13/06/2017 08:49:20 p.m..03 PasarSegundo
+13/06/2017 08:53:26 p.m..48 WndProc FDCLOSE
+13/06/2017 08:53:26 p.m..89 PasarSegundo
+14/06/2017 08:02:33 p.m..81 WndProc FDCLOSE
+14/06/2017 08:02:34 p.m..71 PasarSegundo
+14/06/2017 09:35:31 p.m..75 WndProc FDCLOSE
+14/06/2017 09:40:31 p.m..42 AccLogged DoEfectosUsuarios
+14/06/2017 09:40:31 p.m..47 WndProc FDCLOSE
+14/06/2017 09:46:27 p.m..78 WndProc FDCLOSE
+14/06/2017 09:46:28 p.m..52 PasarSegundo
+14/06/2017 09:54:10 p.m..38 WndProc FDCLOSE
+14/06/2017 09:54:10 p.m..38 EventoSockClose
+14/06/2017 10:27:23 p.m..30 WndProc FDCLOSE
+14/06/2017 10:27:24 p.m..44 PasarSegundo
+14/06/2017 10:29:57 p.m..05 WndProc FDCLOSE
+14/06/2017 10:29:57 p.m..72 PasarSegundo
+14/06/2017 10:32:58 p.m..73 WndProc FDCLOSE
+14/06/2017 10:32:59 p.m..91 PasarSegundo
+14/06/2017 10:33:34 p.m..91 WndProc FDCLOSE
+14/06/2017 10:33:35 p.m..84 PasarSegundo
+14/06/2017 10:38:32 p.m..77 TratarMinutoANtiCheat
+14/06/2017 10:38:33 p.m..06 WndProc FDCLOSE
+14/06/2017 10:40:28 p.m..52 WndProc FDCLOSE
+14/06/2017 10:40:28 p.m..96 PasarSegundo
+14/06/2017 10:48:01 p.m..05 WndProc FDCLOSE
+14/06/2017 10:48:02 p.m..16 PasarSegundo
+14/06/2017 10:48:48 p.m..86 WndProc FDCLOSE
+14/06/2017 10:48:49 p.m..04 PasarSegundo
+14/06/2017 10:51:52 p.m..88 WndProc FDCLOSE
+14/06/2017 10:51:53 p.m..96 PasarSegundo
+14/06/2017 11:02:33 p.m..48 TratarMinutoANtiCheat
+14/06/2017 11:02:51 p.m..88 WndProc FDCLOSE
+14/06/2017 11:08:33 p.m..68 TratarMinutoANtiCheat
+14/06/2017 11:08:33 p.m..77 WndProc FDCLOSE
+14/06/2017 11:09:58 p.m..61 WndProc FDCLOSE
+14/06/2017 11:09:58 p.m..96 PasarSegundo
+20/06/2017 07:51:51 p.m..27 WndProc FDCLOSE
+20/06/2017 07:51:51 p.m..36 PasarSegundo
+20/06/2017 08:07:29 p.m..07 WndProc FDCLOSE
+20/06/2017 08:07:29 p.m..09 PasarSegundo
+03/07/2017 12:28:37 a.m..74 WndProc FDCLOSE
+03/07/2017 12:28:41 a.m..16 WndProc FDCLOSE
+03/07/2017 12:28:55 a.m..20 WndProc FDCLOSE
+03/07/2017 12:30:06 a.m..50 WndProc FDCLOSE
+03/07/2017 12:30:07 a.m..22 PasarSegundo
+03/07/2017 12:34:37 a.m..08 WndProc FDCLOSE
+03/07/2017 12:36:19 a.m..21 WndProc FDCLOSE
+03/07/2017 12:36:22 a.m..28 WndProc FDCLOSE
+03/07/2017 12:36:24 a.m..97 WndProc FDCLOSE
+03/07/2017 12:38:17 a.m..41 WndProc FDCLOSE
+03/07/2017 12:38:17 a.m..62 PasarSegundo
+03/07/2017 12:40:07 a.m..35 WndProc FDCLOSE
+03/07/2017 12:40:08 a.m..37 PasarSegundo
+03/07/2017 12:47:50 a.m..71 WndProc FDCLOSE
+03/07/2017 12:47:51 a.m..63 PasarSegundo
+16/07/2017 02:39:06 a.m..91 WndProc FDCLOSE
+16/07/2017 02:39:10 a.m..37 WndProc FDCLOSE
+16/07/2017 02:39:13 a.m..16 WndProc FDCLOSE
+16/07/2017 02:59:00 a.m..61 AccLogged DoEfectosUsuarios
+16/07/2017 03:01:00 a.m..93 WndProc FDCLOSE
+16/07/2017 03:20:00 a.m..24 AccLogged DoEfectosUsuarios
+16/07/2017 03:20:00 a.m..32 WndProc FDCLOSE
+16/07/2017 03:17:00 p.m..02 WndProc FDCLOSE
+16/07/2017 03:17:00 p.m..93 PasarSegundo
+16/07/2017 03:18:36 p.m..09 WndProc FDCLOSE
+16/07/2017 03:18:37 p.m..20 PasarSegundo
+16/07/2017 04:05:43 p.m..73 AccLogged DoEfectosUsuarios
+16/07/2017 04:05:43 p.m..77 WndProc FDCLOSE
+16/07/2017 04:10:00 p.m..47 WndProc FDCLOSE
+16/07/2017 04:10:01 p.m..01 PasarSegundo
+16/07/2017 04:19:34 p.m..98 WndProc FDCLOSE
+16/07/2017 04:19:35 p.m..20 PasarSegundo
+16/07/2017 04:30:24 p.m..83 WndProc FDCLOSE
+16/07/2017 04:30:25 p.m..52 PasarSegundo
+16/07/2017 04:34:35 p.m..74 WndProc FDCLOSE
+16/07/2017 04:34:36 p.m..37 PasarSegundo
+16/07/2017 06:28:22 p.m..40 WndProc FDCLOSE
+16/07/2017 06:28:23 p.m..08 PasarSegundo
+16/07/2017 06:37:17 p.m..15 TratarMinutoANtiCheat
+16/07/2017 06:37:17 p.m..35 WndProc FDCLOSE
+16/07/2017 06:38:28 p.m..44 WndProc FDCLOSE
+16/07/2017 06:38:28 p.m..63 PasarSegundo
+16/07/2017 06:42:30 p.m..95 WndProc FDCLOSE
+16/07/2017 06:42:31 p.m..69 PasarSegundo
+16/07/2017 07:07:04 p.m..63 WndProc FDCLOSE
+16/07/2017 07:07:04 p.m..72 PasarSegundo
+18/07/2017 09:08:57 p.m..56 TratarMinutoANtiCheat
+18/07/2017 09:08:57 p.m..70 WndProc FDCLOSE
+18/07/2017 09:12:57 p.m..75 TratarMinutoANtiCheat
+18/07/2017 09:12:57 p.m..84 WndProc FDCLOSE
+18/07/2017 09:28:24 p.m..07 WndProc FDCLOSE
+18/07/2017 09:28:24 p.m..72 PasarSegundo
+18/07/2017 09:36:52 p.m..81 WndProc FDCLOSE
+18/07/2017 09:36:53 p.m..64 PasarSegundo
+18/07/2017 09:40:00 p.m..71 WndProc FDCLOSE
+18/07/2017 09:40:01 p.m..84 PasarSegundo
+18/07/2017 09:40:32 p.m..76 WndProc FDCLOSE
+18/07/2017 09:40:33 p.m..15 PasarSegundo
+19/07/2017 09:20:12 a.m..80 TratarMinutoANtiCheat
+19/07/2017 09:20:12 a.m..92 WndProc FDCLOSE
+19/07/2017 09:24:13 a.m..01 TratarMinutoANtiCheat
+19/07/2017 09:24:13 a.m..16 WndProc FDCLOSE
+19/07/2017 09:43:46 a.m..59 WndProc FDCLOSE
+19/07/2017 09:43:47 a.m..14 PasarSegundo
+19/07/2017 12:26:15 p.m..55 AccLogged DoEfectosUsuarios
+19/07/2017 12:26:15 p.m..59 WndProc FDCLOSE
+19/07/2017 12:39:20 p.m..76 WndProc FDCLOSE
+19/07/2017 12:39:20 p.m..76 EventoSockClose
+19/07/2017 12:45:01 p.m..05 WndProc FDCLOSE
+19/07/2017 12:45:02 p.m..17 PasarSegundo
+19/07/2017 12:48:16 p.m..38 TratarMinutoANtiCheat
+19/07/2017 12:48:17 p.m..04 WndProc FDCLOSE
+19/07/2017 12:50:16 p.m..51 TratarMinutoANtiCheat
+19/07/2017 12:50:16 p.m..00 WndProc FDCLOSE
+19/07/2017 12:56:16 p.m..73 TratarMinutoANtiCheat
+19/07/2017 12:56:16 p.m..80 WndProc FDCLOSE
+19/07/2017 01:02:54 p.m..76 WndProc FDCLOSE
+19/07/2017 01:02:55 p.m..69 PasarSegundo
+19/07/2017 01:05:16 p.m..95 TratarMinutoANtiCheat
+19/07/2017 01:05:17 p.m..02 WndProc FDCLOSE
+19/07/2017 01:07:17 p.m..10 TratarMinutoANtiCheat
+19/07/2017 01:07:17 p.m..20 WndProc FDCLOSE
+19/07/2017 01:09:10 p.m..74 WndProc FDCLOSE
+19/07/2017 01:09:11 p.m..14 PasarSegundo
+19/07/2017 01:10:31 p.m..63 WndProc FDCLOSE
+19/07/2017 01:10:32 p.m..35 PasarSegundo
+19/07/2017 01:12:09 p.m..05 WndProc FDCLOSE
+19/07/2017 01:12:09 p.m..98 PasarSegundo
+19/07/2017 01:16:13 p.m..65 WndProc FDCLOSE
+19/07/2017 01:16:14 p.m..21 PasarSegundo
+19/07/2017 02:21:18 p.m..25 TratarMinutoANtiCheat
+19/07/2017 02:23:18 p.m..57 WndProc FDCLOSE
+19/07/2017 02:25:18 p.m..38 TratarMinutoANtiCheat
+19/07/2017 02:25:18 p.m..50 WndProc FDCLOSE
+19/07/2017 02:26:37 p.m..96 WndProc FDCLOSE
+19/07/2017 02:26:38 p.m..27 PasarSegundo
+19/07/2017 02:47:19 p.m..66 AccLogged DoEfectosUsuarios
+19/07/2017 02:47:19 p.m..75 WndProc FDCLOSE
+19/07/2017 04:26:06 p.m..56 WndProc FDCLOSE
+19/07/2017 04:26:07 p.m..64 PasarSegundo
+19/07/2017 09:11:48 p.m..20 WndProc FDCLOSE
+19/07/2017 09:11:48 p.m..54 PasarSegundo
+20/07/2017 12:42:09 a.m..38 TratarMinutoANtiCheat
+20/07/2017 12:42:09 a.m..50 WndProc FDCLOSE
+20/07/2017 12:46:56 a.m..29 WndProc FDCLOSE
+20/07/2017 12:46:56 a.m..58 PasarSegundo
+20/07/2017 12:55:37 a.m..07 WndProc FDCLOSE
+20/07/2017 12:55:37 a.m..60 PasarSegundo
+20/07/2017 01:00:09 a.m..82 TratarMinutoANtiCheat
+20/07/2017 01:00:09 a.m..92 WndProc FDCLOSE
+20/07/2017 01:01:24 a.m..40 WndProc FDCLOSE
+20/07/2017 01:01:25 a.m..28 PasarSegundo
+20/07/2017 01:06:04 a.m..01 WndProc FDCLOSE
+20/07/2017 01:06:04 a.m..59 PasarSegundo
+20/07/2017 04:17:06 p.m..73 WndProc FDCLOSE
+20/07/2017 04:17:07 p.m..28 PasarSegundo
+20/07/2017 04:25:19 p.m..30 WndProc FDCLOSE
+20/07/2017 04:25:19 p.m..76 PasarSegundo
+20/07/2017 04:37:05 p.m..97 WndProc FDCLOSE
+20/07/2017 04:37:06 p.m..19 PasarSegundo
+20/07/2017 04:38:22 p.m..58 WndProc FDCLOSE
+20/07/2017 04:38:22 p.m..64 PasarSegundo
+20/07/2017 04:39:42 p.m..64 WndProc FDCLOSE
+20/07/2017 04:39:42 p.m..99 PasarSegundo
+20/07/2017 04:40:22 p.m..82 WndProc FDCLOSE
+20/07/2017 04:40:23 p.m..31 PasarSegundo
+20/07/2017 04:40:53 p.m..82 WndProc FDCLOSE
+20/07/2017 04:40:54 p.m..61 PasarSegundo
+20/07/2017 04:41:25 p.m..81 WndProc FDCLOSE
+20/07/2017 04:41:25 p.m..94 PasarSegundo
+20/07/2017 04:43:45 p.m..49 WndProc FDCLOSE
+20/07/2017 04:43:46 p.m..50 PasarSegundo
+20/07/2017 04:59:00 p.m..64 WndProc FDCLOSE
+20/07/2017 04:59:01 p.m..49 PasarSegundo
+20/07/2017 05:12:14 p.m..77 WndProc FDCLOSE
+20/07/2017 05:12:15 p.m..70 PasarSegundo
+20/07/2017 05:19:39 p.m..49 WndProc FDCLOSE
+20/07/2017 05:19:39 p.m..68 PasarSegundo
+20/07/2017 05:23:04 p.m..39 WndProc FDCLOSE
+20/07/2017 05:23:05 p.m..34 PasarSegundo
+21/07/2017 01:02:35 a.m..80 WndProc FDCLOSE
+21/07/2017 01:02:36 a.m..47 PasarSegundo
+21/07/2017 01:20:14 a.m..84 WndProc FDCLOSE
+21/07/2017 01:20:15 a.m..98 PasarSegundo
+21/07/2017 01:29:25 a.m..64 WndProc FDCLOSE
+21/07/2017 01:29:26 a.m..37 PasarSegundo
+21/07/2017 01:41:28 a.m..00 WndProc FDCLOSE
+21/07/2017 01:41:29 a.m..06 PasarSegundo
+21/07/2017 01:43:20 a.m..53 WndProc FDCLOSE
+21/07/2017 01:43:21 a.m..42 PasarSegundo
+22/07/2017 01:39:13 a.m..11 WndProc FDCLOSE
+22/07/2017 01:39:13 a.m..66 PasarSegundo
+22/07/2017 01:43:05 a.m..73 WndProc FDCLOSE
+22/07/2017 01:43:05 a.m..86 PasarSegundo
+22/07/2017 01:43:58 a.m..94 WndProc FDCLOSE
+22/07/2017 01:44:00 a.m..02 PasarSegundo
+22/07/2017 01:44:32 a.m..55 WndProc FDCLOSE
+22/07/2017 01:44:33 a.m..12 PasarSegundo
+23/07/2017 12:56:07 a.m..09 TratarMinutoANtiCheat
+23/07/2017 12:56:12 a.m..18 WndProc FDCLOSE
+23/07/2017 12:57:58 a.m..22 WndProc FDCLOSE
+23/07/2017 12:57:59 a.m..00 PasarSegundo
+23/07/2017 01:04:18 a.m..30 WndProc FDCLOSE
+23/07/2017 01:04:18 a.m..42 PasarSegundo
+23/07/2017 01:05:41 a.m..61 WndProc FDCLOSE
+23/07/2017 01:05:42 a.m..60 PasarSegundo
+23/07/2017 01:08:15 a.m..40 WndProc FDCLOSE
+23/07/2017 01:08:15 a.m..99 PasarSegundo
+23/07/2017 01:09:20 a.m..24 WndProc FDCLOSE
+23/07/2017 01:09:20 a.m..24 EventoSockClose
+23/07/2017 01:12:13 a.m..68 TratarMinutoANtiCheat
+23/07/2017 01:12:13 a.m..81 WndProc FDCLOSE
+23/07/2017 01:14:14 a.m..76 WndProc FDCLOSE
+23/07/2017 01:14:14 a.m..99 PasarSegundo
+23/07/2017 01:27:30 a.m..08 WndProc FDCLOSE
+23/07/2017 01:27:30 a.m..43 PasarSegundo
+23/07/2017 01:29:14 a.m..13 TratarMinutoANtiCheat
+23/07/2017 01:29:14 a.m..53 WndProc FDCLOSE
+23/07/2017 01:30:47 a.m..08 WndProc FDCLOSE
+23/07/2017 01:30:48 a.m..02 PasarSegundo
+23/07/2017 01:34:34 a.m..35 WndProc FDCLOSE
+23/07/2017 01:34:34 a.m..60 PasarSegundo
+23/07/2017 01:36:11 a.m..85 WndProc FDCLOSE
+23/07/2017 01:36:12 a.m..69 PasarSegundo
+23/07/2017 01:53:28 a.m..23 WndProc FDCLOSE
+23/07/2017 01:53:29 a.m..09 PasarSegundo
+23/07/2017 01:55:54 a.m..66 WndProc FDCLOSE
+23/07/2017 01:55:55 a.m..29 PasarSegundo
+23/07/2017 01:59:49 a.m..40 WndProc FDCLOSE
+23/07/2017 01:59:49 a.m..98 PasarSegundo
+22/10/2017 12:46:09 a.m..54 WndProc FDCLOSE
+22/10/2017 12:46:10 a.m..02 PasarSegundo
+22/10/2017 12:47:19 a.m..19 WndProc FDCLOSE
+22/10/2017 12:47:19 a.m..61 PasarSegundo
+22/10/2017 12:57:03 a.m..91 WndProc FDCLOSE
+22/10/2017 12:57:04 a.m..12 PasarSegundo
+22/10/2017 12:59:40 a.m..46 WndProc FDCLOSE
+22/10/2017 12:59:41 a.m..40 PasarSegundo
+22/10/2017 01:08:11 a.m..16 WndProc FDCLOSE
+22/10/2017 01:08:11 a.m..56 PasarSegundo
+22/10/2017 01:54:44 a.m..35 WndProc FDCLOSE
+22/10/2017 01:54:44 a.m..47 PasarSegundo
+22/10/2017 01:00:21 p.m..07 WndProc FDCLOSE
+22/10/2017 01:00:21 p.m..86 PasarSegundo
+09/11/2017 06:02:05 p.m..02 WndProc FDCLOSE
+09/11/2017 06:02:06 p.m..10 PasarSegundo
+09/11/2017 06:05:47 p.m..35 WndProc FDCLOSE
+09/11/2017 06:05:48 p.m..23 PasarSegundo
+09/11/2017 07:06:16 p.m..13 WndProc FDCLOSE
+09/11/2017 07:06:17 p.m..27 PasarSegundo
+09/11/2017 07:48:17 p.m..17 WndProc FDCLOSE
+09/11/2017 07:48:18 p.m..20 PasarSegundo
+09/11/2017 07:51:25 p.m..20 TratarMinutoANtiCheat
+09/11/2017 07:51:50 p.m..30 WndProc FDCLOSE
+09/11/2017 07:53:25 p.m..31 TratarMinutoANtiCheat
+09/11/2017 07:53:34 p.m..05 WndProc FDCLOSE
+09/11/2017 07:55:56 p.m..62 WndProc FDCLOSE
+09/11/2017 07:55:57 p.m..74 PasarSegundo
+09/11/2017 07:56:19 p.m..15 WndProc FDCLOSE
+09/11/2017 07:56:20 p.m..30 PasarSegundo
+09/11/2017 08:42:34 p.m..95 TratarMinutoANtiCheat
+09/11/2017 08:42:35 p.m..11 WndProc FDCLOSE
+09/11/2017 08:43:59 p.m..15 WndProc FDCLOSE
+09/11/2017 08:43:59 p.m..62 PasarSegundo
+19/11/2017 06:33:10 p.m..91 WndProc FDCLOSE
+19/11/2017 06:33:11 p.m..16 PasarSegundo
+19/11/2017 06:38:05 p.m..61 WndProc FDCLOSE
+19/11/2017 06:38:05 p.m..77 PasarSegundo
+19/11/2017 06:40:56 p.m..79 TratarMinutoANtiCheat
+19/11/2017 06:40:56 p.m..91 WndProc FDCLOSE
+19/11/2017 06:42:53 p.m..20 WndProc FDCLOSE
+19/11/2017 06:42:53 p.m..27 PasarSegundo
+19/11/2017 07:08:02 p.m..34 WndProc FDCLOSE
+19/11/2017 07:08:03 p.m..50 PasarSegundo
+19/11/2017 07:19:43 p.m..09 WndProc FDCLOSE
+19/11/2017 07:19:43 p.m..62 PasarSegundo
+19/11/2017 07:29:57 p.m..58 TratarMinutoANtiCheat
+19/11/2017 07:29:57 p.m..72 WndProc FDCLOSE
+19/11/2017 07:31:57 p.m..79 TratarMinutoANtiCheat
+19/11/2017 07:31:57 p.m..91 WndProc FDCLOSE
+19/11/2017 07:33:57 p.m..93 TratarMinutoANtiCheat
+19/11/2017 07:34:16 p.m..27 WndProc FDCLOSE
+19/11/2017 07:34:31 p.m..24 WndProc FDCLOSE
+19/11/2017 07:34:31 p.m..75 PasarSegundo
+19/11/2017 07:53:19 p.m..15 TratarMinutoANtiCheat
+19/11/2017 07:53:25 p.m..27 WndProc FDCLOSE
+19/11/2017 07:56:19 p.m..39 TratarMinutoANtiCheat
+19/11/2017 07:56:19 p.m..49 WndProc FDCLOSE
+19/11/2017 07:59:14 p.m..31 WndProc FDCLOSE
+19/11/2017 07:59:14 p.m..31 EventoSockClose
+19/11/2017 08:28:18 p.m..05 WndProc FDCLOSE
+19/11/2017 08:28:19 p.m..01 PasarSegundo
+19/11/2017 08:32:35 p.m..59 WndProc FDCLOSE
+19/11/2017 08:32:36 p.m..77 PasarSegundo
+19/11/2017 08:38:57 p.m..71 WndProc FDCLOSE
+19/11/2017 08:38:58 p.m..53 PasarSegundo
+19/11/2017 08:50:29 p.m..36 WndProc FDCLOSE
+19/11/2017 08:50:29 p.m..41 PasarSegundo
+19/11/2017 08:58:17 p.m..75 WndProc FDCLOSE
+19/11/2017 08:58:18 p.m..48 PasarSegundo
+19/11/2017 09:05:47 p.m..87 WndProc FDCLOSE
+19/11/2017 09:05:48 p.m..13 PasarSegundo
+19/11/2017 09:26:10 p.m..63 WndProc FDCLOSE
+19/11/2017 09:26:10 p.m..78 PasarSegundo
+20/11/2017 02:34:35 a.m..77 WndProc FDCLOSE
+20/11/2017 02:34:36 a.m..86 PasarSegundo
+20/11/2017 02:35:55 a.m..71 WndProc FDCLOSE
+20/11/2017 02:35:56 a.m..11 PasarSegundo
+20/11/2017 02:46:17 a.m..85 WndProc FDCLOSE
+20/11/2017 02:46:17 a.m..96 PasarSegundo
+20/11/2017 03:01:40 a.m..35 WndProc FDCLOSE
+20/11/2017 03:01:41 a.m..19 PasarSegundo
+22/11/2017 02:47:08 p.m..47 TratarMinutoANtiCheat
+22/11/2017 02:47:09 p.m..19 WndProc FDCLOSE
+22/11/2017 02:48:08 p.m..75 TratarMinutoANtiCheat
+22/11/2017 02:48:08 p.m..97 WndProc FDCLOSE
+22/11/2017 02:51:13 p.m..48 WndProc FDCLOSE
+22/11/2017 02:51:14 p.m..00 PasarSegundo
+22/11/2017 03:04:08 p.m..32 WndProc FDCLOSE
+22/11/2017 03:04:08 p.m..32 EventoSockClose
+22/11/2017 03:04:09 p.m..84 WndProc FDCLOSE
+22/11/2017 03:04:09 p.m..84 EventoSockClose
+22/11/2017 03:04:42 p.m..81 WndProc FDCLOSE
+22/11/2017 03:04:43 p.m..32 PasarSegundo
+22/11/2017 03:11:09 p.m..41 TratarMinutoANtiCheat
+22/11/2017 03:11:09 p.m..50 WndProc FDCLOSE
+22/11/2017 03:11:25 p.m..84 WndProc FDCLOSE
+22/11/2017 03:11:26 p.m..46 PasarSegundo
+22/11/2017 03:17:09 p.m..64 TratarMinutoANtiCheat
+22/11/2017 03:17:15 p.m..33 WndProc FDCLOSE
+22/11/2017 03:19:09 p.m..78 TratarMinutoANtiCheat
+22/11/2017 03:19:09 p.m..89 WndProc FDCLOSE
+22/11/2017 03:20:09 p.m..90 TratarMinutoANtiCheat
+22/11/2017 03:20:10 p.m..00 WndProc FDCLOSE
+22/11/2017 03:32:09 p.m..64 WndProc FDCLOSE
+22/11/2017 03:32:10 p.m..50 PasarSegundo
+22/11/2017 03:37:44 p.m..41 WndProc FDCLOSE
+22/11/2017 03:37:45 p.m..16 PasarSegundo
+22/11/2017 05:07:15 p.m..60 WndProc FDCLOSE
+22/11/2017 05:07:18 p.m..34 WndProc FDCLOSE
+22/11/2017 05:07:18 p.m..34 EventoSockClose
+22/11/2017 05:07:19 p.m..63 WndProc FDCLOSE
+22/11/2017 05:07:19 p.m..63 EventoSockClose
+22/11/2017 05:07:28 p.m..22 WndProc FDCLOSE
+22/11/2017 05:07:28 p.m..22 EventoSockClose
+22/11/2017 05:07:45 p.m..98 Procesado que cerró socket: -9-0-17
+22/11/2017 05:07:45 p.m..98 restamos conexion a 0 key=-1. NEGATIVO!!
+22/11/2017 05:10:30 p.m..59 WndProc FDCLOSE
+22/11/2017 05:10:31 p.m..57 PasarSegundo
+22/11/2017 05:25:30 p.m..30 WndProc FDCLOSE
+22/11/2017 05:25:30 p.m..88 PasarSegundo
+22/11/2017 05:38:31 p.m..00 WndProc FDCLOSE
+22/11/2017 05:38:31 p.m..17 PasarSegundo
+22/11/2017 05:41:54 p.m..05 WndProc FDCLOSE
+22/11/2017 05:41:54 p.m..70 PasarSegundo
+22/11/2017 05:47:09 p.m..34 WndProc FDCLOSE
+22/11/2017 05:47:09 p.m..51 PasarSegundo
+22/11/2017 05:55:20 p.m..56 WndProc FDCLOSE
+22/11/2017 05:55:21 p.m..40 PasarSegundo
+22/11/2017 05:59:41 p.m..30 TratarMinutoANtiCheat
+22/11/2017 05:59:45 p.m..56 WndProc FDCLOSE
+22/11/2017 06:00:51 p.m..30 WndProc FDCLOSE
+22/11/2017 06:00:51 p.m..69 PasarSegundo
+22/11/2017 06:02:37 p.m..55 WndProc FDCLOSE
+22/11/2017 06:02:38 p.m..45 PasarSegundo
+22/11/2017 06:03:16 p.m..00 WndProc FDCLOSE
+22/11/2017 06:03:16 p.m..44 PasarSegundo
+22/11/2017 06:05:00 p.m..46 WndProc FDCLOSE
+22/11/2017 06:11:06 p.m..75 TratarMinutoANtiCheat
+22/11/2017 06:11:06 p.m..88 WndProc FDCLOSE
+22/11/2017 06:11:18 p.m..61 WndProc FDCLOSE
+22/11/2017 06:11:18 p.m..90 PasarSegundo
+22/11/2017 06:18:56 p.m..57 WndProc FDCLOSE
+22/11/2017 06:18:57 p.m..05 PasarSegundo
+22/11/2017 06:20:05 p.m..20 WndProc FDCLOSE
+22/11/2017 06:20:05 p.m..75 PasarSegundo
+22/11/2017 06:25:28 p.m..06 WndProc FDCLOSE
+22/11/2017 06:25:28 p.m..59 PasarSegundo
+22/11/2017 06:26:12 p.m..84 WndProc FDCLOSE
+22/11/2017 06:26:13 p.m..41 PasarSegundo
+22/11/2017 06:37:07 p.m..37 TratarMinutoANtiCheat
+22/11/2017 06:37:07 p.m..49 WndProc FDCLOSE
+22/11/2017 06:39:07 p.m..52 TratarMinutoANtiCheat
+22/11/2017 06:39:07 p.m..64 WndProc FDCLOSE
+22/11/2017 06:42:27 p.m..67 WndProc FDCLOSE
+22/11/2017 06:42:28 p.m..02 PasarSegundo
+22/11/2017 07:15:45 p.m..44 WndProc FDCLOSE
+22/11/2017 07:15:45 p.m..92 PasarSegundo
+22/11/2017 07:18:56 p.m..57 WndProc FDCLOSE
+22/11/2017 07:18:57 p.m..45 PasarSegundo
+22/11/2017 07:20:15 p.m..72 WndProc FDCLOSE
+22/11/2017 07:20:15 p.m..81 PasarSegundo
+22/11/2017 07:24:41 p.m..39 TratarMinutoANtiCheat
+22/11/2017 07:24:41 p.m..53 WndProc FDCLOSE
+22/11/2017 07:25:41 p.m..55 TratarMinutoANtiCheat
+22/11/2017 07:25:41 p.m..63 WndProc FDCLOSE
+22/11/2017 07:27:37 p.m..02 WndProc FDCLOSE
+22/11/2017 07:27:38 p.m..02 PasarSegundo
+22/11/2017 10:42:55 p.m..80 WndProc FDCLOSE
+22/11/2017 10:42:56 p.m..54 PasarSegundo
+23/11/2017 09:19:20 a.m..19 TratarMinutoANtiCheat
+23/11/2017 09:19:20 a.m..36 WndProc FDCLOSE
+23/11/2017 09:21:20 a.m..37 TratarMinutoANtiCheat
+23/11/2017 09:21:25 a.m..70 WndProc FDCLOSE
+23/11/2017 09:22:20 a.m..52 TratarMinutoANtiCheat
+23/11/2017 09:22:20 a.m..66 WndProc FDCLOSE
+23/11/2017 09:23:20 a.m..66 TratarMinutoANtiCheat
+23/11/2017 09:23:20 a.m..84 WndProc FDCLOSE
+23/11/2017 09:23:57 a.m..73 WndProc FDCLOSE
+23/11/2017 09:23:57 a.m..87 PasarSegundo
+23/11/2017 09:28:55 a.m..52 WndProc FDCLOSE
+23/11/2017 09:28:55 a.m..88 PasarSegundo
+23/11/2017 09:29:45 a.m..64 WndProc FDCLOSE
+23/11/2017 09:29:46 a.m..23 PasarSegundo
+23/11/2017 09:34:50 a.m..47 WndProc FDCLOSE
+23/11/2017 09:34:50 a.m..97 PasarSegundo
+23/11/2017 06:12:01 p.m..80 WndProc FDCLOSE
+23/11/2017 06:12:02 p.m..70 PasarSegundo
+23/11/2017 06:23:54 p.m..91 WndProc FDCLOSE
+23/11/2017 06:25:01 p.m..57 TratarMinutoANtiCheat
+23/11/2017 06:25:01 p.m..70 WndProc FDCLOSE
+23/11/2017 06:27:01 p.m..72 TratarMinutoANtiCheat
+23/11/2017 06:27:01 p.m..84 WndProc FDCLOSE
+23/11/2017 06:40:47 p.m..88 WndProc FDCLOSE
+23/11/2017 06:40:49 p.m..05 PasarSegundo
+23/11/2017 06:45:43 p.m..76 WndProc FDCLOSE
+23/11/2017 06:45:44 p.m..70 PasarSegundo
+23/11/2017 06:59:02 p.m..45 TratarMinutoANtiCheat
+23/11/2017 06:59:02 p.m..52 WndProc FDCLOSE
+23/11/2017 07:04:07 p.m..16 WndProc FDCLOSE
+23/11/2017 07:04:07 p.m..59 PasarSegundo
+23/11/2017 07:20:14 p.m..20 WndProc FDCLOSE
+23/11/2017 07:20:14 p.m..33 PasarSegundo
+23/11/2017 07:43:44 p.m..38 WndProc FDCLOSE
+23/11/2017 07:43:44 p.m..91 PasarSegundo
+23/11/2017 07:54:50 p.m..31 WndProc FDCLOSE
+23/11/2017 07:54:51 p.m..37 PasarSegundo
+23/11/2017 08:01:37 p.m..04 WndProc FDCLOSE
+23/11/2017 08:01:37 p.m..43 PasarSegundo
+23/11/2017 08:04:47 p.m..20 WndProc FDCLOSE
+23/11/2017 08:04:47 p.m..50 PasarSegundo
+23/11/2017 08:06:38 p.m..83 WndProc FDCLOSE
+23/11/2017 08:06:39 p.m..62 PasarSegundo
+23/11/2017 08:15:58 p.m..05 WndProc FDCLOSE
+23/11/2017 08:15:58 p.m..73 PasarSegundo
+23/11/2017 08:36:59 p.m..26 WndProc FDCLOSE
+23/11/2017 08:38:20 p.m..63 WndProc FDCLOSE
+23/11/2017 08:46:35 p.m..05 WndProc FDCLOSE
+23/11/2017 08:46:35 p.m..82 PasarSegundo
+23/11/2017 08:49:25 p.m..20 WndProc FDCLOSE
+23/11/2017 08:49:25 p.m..68 PasarSegundo
+23/11/2017 08:56:19 p.m..09 WndProc FDCLOSE
+23/11/2017 08:56:19 p.m..98 PasarSegundo
+23/11/2017 09:49:36 p.m..37 WndProc FDCLOSE
+23/11/2017 09:49:37 p.m..32 PasarSegundo
+24/11/2017 12:30:02 a.m..41 WndProc FDCLOSE
+24/11/2017 12:31:55 a.m..33 WndProc FDCLOSE
+24/11/2017 12:31:56 a.m..26 PasarSegundo
+24/11/2017 12:37:08 a.m..01 AccLogged DoEfectosUsuarios
+24/11/2017 12:37:12 a.m..35 WndProc FDCLOSE
+24/11/2017 12:39:10 a.m..28 WndProc FDCLOSE
+24/11/2017 11:32:47 a.m..95 WndProc FDCLOSE
+24/11/2017 11:32:48 a.m..06 PasarSegundo
+24/11/2017 11:49:52 a.m..89 WndProc FDCLOSE
+24/11/2017 11:49:52 a.m..89 EventoSockClose
+24/11/2017 11:50:44 a.m..74 WndProc FDCLOSE
+24/11/2017 11:50:44 a.m..74 EventoSockClose
+24/11/2017 11:58:30 a.m..30 WndProc FDCLOSE
+24/11/2017 11:58:31 a.m..13 PasarSegundo
+24/11/2017 12:03:04 p.m..83 TratarMinutoANtiCheat
+24/11/2017 12:03:04 p.m..92 WndProc FDCLOSE
+24/11/2017 12:04:54 p.m..53 WndProc FDCLOSE
+24/11/2017 12:04:55 p.m..02 PasarSegundo
+24/11/2017 12:39:47 p.m..45 WndProc FDCLOSE
+24/11/2017 12:44:54 p.m..83 WndProc FDCLOSE
+24/11/2017 12:44:55 p.m..31 PasarSegundo
+24/11/2017 12:54:26 p.m..41 WndProc FDCLOSE
+24/11/2017 12:54:26 p.m..89 PasarSegundo
+24/11/2017 12:56:05 p.m..77 WndProc FDCLOSE
+24/11/2017 12:56:05 p.m..77 EventoSockClose
+24/11/2017 01:01:05 p.m..73 WndProc FDCLOSE
+24/11/2017 01:01:05 p.m..73 EventoSockClose
+24/11/2017 01:09:20 p.m..57 WndProc FDCLOSE
+24/11/2017 01:09:20 p.m..58 EventoSockClose
+24/11/2017 01:14:22 p.m..38 AccLogged DoEfectosUsuarios
+24/11/2017 01:14:22 p.m..48 WndProc FDCLOSE
+25/11/2017 07:39:29 p.m..53 WndProc FDCLOSE
+25/11/2017 07:39:29 p.m..56 EventoSockClose
+25/11/2017 07:40:01 p.m..51 WndProc FDCLOSE
+25/11/2017 07:40:01 p.m..70 PasarSegundo
+25/11/2017 07:40:31 p.m..48 WndProc FDCLOSE
+25/11/2017 07:40:31 p.m..72 PasarSegundo
+25/11/2017 07:42:07 p.m..07 WndProc FDCLOSE
+25/11/2017 07:42:10 p.m..18 WndProc FDCLOSE
+25/11/2017 07:42:10 p.m..18 EventoSockClose
+25/11/2017 07:43:08 p.m..50 WndProc FDCLOSE
+25/11/2017 07:48:51 p.m..31 WndProc FDCLOSE
+25/11/2017 07:48:51 p.m..64 PasarSegundo
+25/11/2017 08:18:27 p.m..18 WndProc FDCLOSE
+25/11/2017 08:18:28 p.m..04 PasarSegundo
+25/11/2017 08:21:33 p.m..93 WndProc FDCLOSE
+25/11/2017 08:21:34 p.m..91 PasarSegundo
+25/11/2017 08:22:50 p.m..20 WndProc FDCLOSE
+25/11/2017 08:22:50 p.m..73 PasarSegundo
+25/11/2017 08:24:40 p.m..85 WndProc FDCLOSE
+25/11/2017 08:24:43 p.m..20 WndProc FDCLOSE
+25/11/2017 08:24:43 p.m..21 EventoSockClose
+25/11/2017 08:24:48 p.m..52 WndProc FDCLOSE
+25/11/2017 08:24:48 p.m..52 EventoSockClose
+25/11/2017 08:24:50 p.m..10 WndProc FDCLOSE
+25/11/2017 08:24:50 p.m..10 EventoSockClose
+25/11/2017 08:24:53 p.m..42 WndProc FDCLOSE
+25/11/2017 08:24:53 p.m..42 EventoSockClose
+25/11/2017 08:25:17 p.m..16 WndProc FDCLOSE
+25/11/2017 08:25:17 p.m..16 EventoSockClose
+25/11/2017 08:32:02 p.m..95 WndProc FDCLOSE
+25/11/2017 08:32:03 p.m..77 PasarSegundo
+25/11/2017 08:36:08 p.m..64 WndProc FDCLOSE
+25/11/2017 08:36:09 p.m..75 PasarSegundo
+25/11/2017 08:37:59 p.m..72 TratarMinutoANtiCheat
+25/11/2017 08:40:00 p.m..02 WndProc FDCLOSE
+25/11/2017 08:41:29 p.m..30 WndProc FDCLOSE
+25/11/2017 08:41:29 p.m..85 PasarSegundo
+25/11/2017 08:42:34 p.m..69 WndProc FDCLOSE
+25/11/2017 08:42:34 p.m..75 PasarSegundo
+25/11/2017 08:44:00 p.m..98 WndProc FDCLOSE
+25/11/2017 08:44:02 p.m..04 PasarSegundo
+25/11/2017 08:49:30 p.m..33 WndProc FDCLOSE
+25/11/2017 08:49:30 p.m..33 EventoSockClose
+25/11/2017 08:52:37 p.m..72 WndProc FDCLOSE
+25/11/2017 08:57:00 p.m..13 WndProc FDCLOSE
+25/11/2017 08:57:00 p.m..91 PasarSegundo
+25/11/2017 08:57:58 p.m..62 WndProc FDCLOSE
+25/11/2017 08:57:59 p.m..62 PasarSegundo
+25/11/2017 08:59:39 p.m..26 WndProc FDCLOSE
+25/11/2017 08:59:40 p.m..30 PasarSegundo
+25/11/2017 09:01:03 p.m..70 WndProc FDCLOSE
+25/11/2017 09:01:04 p.m..77 PasarSegundo
+25/11/2017 09:03:16 p.m..29 WndProc FDCLOSE
+25/11/2017 09:03:16 p.m..41 PasarSegundo
+25/11/2017 09:06:45 p.m..38 WndProc FDCLOSE
+25/11/2017 09:06:45 p.m..39 PasarSegundo
+25/11/2017 09:13:04 p.m..98 WndProc FDCLOSE
+25/11/2017 09:13:04 p.m..98 EventoSockClose
+25/11/2017 10:17:16 p.m..68 WndProc FDCLOSE
+25/11/2017 10:17:16 p.m..79 PasarSegundo
+25/11/2017 10:18:32 p.m..25 WndProc FDCLOSE
+25/11/2017 10:18:33 p.m..30 PasarSegundo
+25/11/2017 10:32:09 p.m..69 TratarMinutoANtiCheat
+25/11/2017 10:32:11 p.m..62 WndProc FDCLOSE
+25/11/2017 10:34:09 p.m..88 TratarMinutoANtiCheat
+25/11/2017 10:34:09 p.m..98 WndProc FDCLOSE
+25/11/2017 10:35:23 p.m..29 WndProc FDCLOSE
+25/11/2017 10:35:23 p.m..58 PasarSegundo
+25/11/2017 10:39:56 p.m..21 WndProc FDCLOSE
+25/11/2017 10:39:56 p.m..65 PasarSegundo
+25/11/2017 10:43:10 p.m..52 TratarMinutoANtiCheat
+25/11/2017 10:43:10 p.m..60 WndProc FDCLOSE
+25/11/2017 10:44:19 p.m..13 WndProc FDCLOSE
+25/11/2017 10:44:20 p.m..04 PasarSegundo
+26/11/2017 12:51:52 p.m..30 WndProc FDCLOSE
+26/11/2017 12:51:53 p.m..18 PasarSegundo
+26/11/2017 12:59:23 p.m..06 WndProc FDCLOSE
+26/11/2017 12:59:24 p.m..02 PasarSegundo
+26/11/2017 01:08:06 p.m..16 WndProc FDCLOSE
+26/11/2017 01:08:06 p.m..16 EventoSockClose
+26/11/2017 01:15:45 p.m..06 WndProc FDCLOSE
+26/11/2017 01:15:45 p.m..06 EventoSockClose
+26/11/2017 01:15:48 p.m..26 WndProc FDCLOSE
+26/11/2017 01:15:48 p.m..26 EventoSockClose
+26/11/2017 01:16:27 p.m..12 WndProc FDCLOSE
+26/11/2017 01:16:27 p.m..12 EventoSockClose
+26/11/2017 01:16:52 p.m..55 WndProc FDCLOSE
+26/11/2017 01:16:52 p.m..55 EventoSockClose
+26/11/2017 01:17:09 p.m..57 WndProc FDCLOSE
+26/11/2017 01:17:09 p.m..57 EventoSockClose
+26/11/2017 01:17:48 p.m..69 WndProc FDCLOSE
+26/11/2017 01:17:48 p.m..69 EventoSockClose
+26/11/2017 01:18:33 p.m..17 WndProc FDCLOSE
+26/11/2017 01:20:53 p.m..03 WndProc FDCLOSE
+26/11/2017 01:21:20 p.m..14 WndProc FDCLOSE
+26/11/2017 01:29:59 p.m..77 WndProc FDCLOSE
+26/11/2017 01:30:11 p.m..57 WndProc FDCLOSE
+26/11/2017 01:30:11 p.m..57 EventoSockClose
+26/11/2017 01:42:15 p.m..50 WndProc FDCLOSE
+26/11/2017 01:42:15 p.m..50 EventoSockClose
+26/11/2017 01:59:18 p.m..94 WndProc FDCLOSE
+26/11/2017 01:59:19 p.m..39 PasarSegundo
+26/11/2017 06:16:02 p.m..20 TratarMinutoANtiCheat
+26/11/2017 06:16:02 p.m..37 WndProc FDCLOSE
+26/11/2017 06:26:44 p.m..03 WndProc FDCLOSE
+26/11/2017 06:26:44 p.m..03 EventoSockClose
+26/11/2017 06:27:15 p.m..42 WndProc FDCLOSE
+26/11/2017 06:27:16 p.m..33 PasarSegundo
+26/11/2017 06:32:38 p.m..52 WndProc FDCLOSE
+26/11/2017 06:32:39 p.m..67 PasarSegundo
+26/11/2017 06:40:44 p.m..30 TratarMinutoANtiCheat
+26/11/2017 06:40:44 p.m..41 WndProc FDCLOSE
+26/11/2017 06:42:13 p.m..79 WndProc FDCLOSE
+26/11/2017 06:42:13 p.m..79 EventoSockClose
+26/11/2017 06:45:44 p.m..47 TratarMinutoANtiCheat
+26/11/2017 06:45:44 p.m..55 WndProc FDCLOSE
+26/11/2017 06:47:44 p.m..57 TratarMinutoANtiCheat
+26/11/2017 06:47:48 p.m..10 WndProc FDCLOSE
+26/11/2017 06:49:21 p.m..42 WndProc FDCLOSE
+26/11/2017 06:49:21 p.m..63 PasarSegundo
+26/11/2017 06:56:35 p.m..21 WndProc FDCLOSE
+26/11/2017 06:56:35 p.m..22 EventoSockClose
+26/11/2017 07:03:21 p.m..66 WndProc FDCLOSE
+26/11/2017 07:03:22 p.m..20 PasarSegundo
+26/11/2017 07:04:34 p.m..42 WndProc FDCLOSE
+26/11/2017 07:04:34 p.m..42 EventoSockClose
+26/11/2017 07:04:56 p.m..72 WndProc FDCLOSE
+26/11/2017 07:04:57 p.m..08 PasarSegundo
+26/11/2017 07:15:30 p.m..34 WndProc FDCLOSE
+26/11/2017 07:15:31 p.m..48 PasarSegundo
+26/11/2017 07:16:32 p.m..18 WndProc FDCLOSE
+26/11/2017 07:16:33 p.m..14 PasarSegundo
+26/11/2017 07:17:02 p.m..24 WndProc FDCLOSE
+26/11/2017 07:17:02 p.m..25 EventoSockClose
+26/11/2017 07:17:33 p.m..73 WndProc FDCLOSE
+26/11/2017 07:17:34 p.m..27 PasarSegundo
+26/11/2017 07:22:41 p.m..98 WndProc FDCLOSE
+26/11/2017 07:22:58 p.m..05 Procesado que cerró socket: -9-8-2-0-61
+26/11/2017 07:22:58 p.m..05 restamos conexion a 0 key=-1. NEGATIVO!!
+26/11/2017 07:23:16 p.m..85 WndProc FDCLOSE
+26/11/2017 07:23:17 p.m..02 PasarSegundo
+28/11/2017 07:48:29 p.m..80 WndProc FDCLOSE
+28/11/2017 07:48:29 p.m..86 EventoSockClose
+28/11/2017 07:48:48 p.m..30 WndProc FDCLOSE
+28/11/2017 07:48:49 p.m..02 PasarSegundo
+28/11/2017 08:05:03 p.m..31 WndProc FDCLOSE
+28/11/2017 08:05:03 p.m..31 EventoSockClose
+28/11/2017 08:05:06 p.m..52 WndProc FDCLOSE
+28/11/2017 08:05:06 p.m..52 EventoSockClose
+28/11/2017 08:07:05 p.m..23 WndProc FDCLOSE
+28/11/2017 08:07:38 p.m..23 WndProc FDCLOSE
+28/11/2017 08:15:51 p.m..04 WndProc FDCLOSE
+28/11/2017 08:15:51 p.m..04 EventoSockClose
+28/11/2017 08:16:19 p.m..57 WndProc FDCLOSE
+28/11/2017 08:17:43 p.m..19 WndProc FDCLOSE
+28/11/2017 08:17:43 p.m..42 PasarSegundo
+28/11/2017 08:18:07 p.m..43 WndProc FDCLOSE
+28/11/2017 08:18:07 p.m..43 EventoSockClose
+28/11/2017 08:21:00 p.m..81 WndProc FDCLOSE
+28/11/2017 08:21:01 p.m..13 PasarSegundo
+07/12/2017 11:55:00 p.m..38 WndProc FDCLOSE
+07/12/2017 11:55:00 p.m..51 EventoSockClose
+07/12/2017 11:56:06 p.m..44 WndProc FDCLOSE
+07/12/2017 11:56:06 p.m..97 PasarSegundo
+08/12/2017 12:02:53 a.m..37 TratarMinutoANtiCheat
+08/12/2017 12:03:46 a.m..68 WndProc FDCLOSE
+08/12/2017 12:04:12 a.m..13 WndProc FDCLOSE
+08/12/2017 12:04:12 a.m..88 PasarSegundo
+08/12/2017 12:11:34 a.m..64 WndProc FDCLOSE
+08/12/2017 12:11:34 a.m..64 EventoSockClose
+08/12/2017 12:12:12 a.m..76 WndProc FDCLOSE
+08/12/2017 12:12:13 a.m..43 PasarSegundo
+08/12/2017 12:16:06 a.m..92 WndProc FDCLOSE
+08/12/2017 12:16:06 a.m..93 EventoSockClose
+08/12/2017 12:22:12 a.m..33 AccLogged DoEfectosUsuarios
+08/12/2017 12:22:43 a.m..18 WndProc FDCLOSE
+08/12/2017 12:22:56 a.m..35 WndProc FDCLOSE
+08/12/2017 12:22:56 a.m..35 EventoSockClose
+08/12/2017 12:24:59 a.m..42 WndProc FDCLOSE
+08/12/2017 12:24:59 a.m..42 EventoSockClose
+08/12/2017 12:25:41 a.m..49 WndProc FDCLOSE
+08/12/2017 12:25:42 a.m..67 PasarSegundo
+08/12/2017 12:51:17 a.m..37 WndProc FDCLOSE
+08/12/2017 12:51:17 a.m..47 PasarSegundo
+08/12/2017 11:00:41 a.m..41 WndProc FDCLOSE
+08/12/2017 11:00:41 a.m..45 EventoSockClose
+08/12/2017 11:03:56 a.m..20 WndProc FDCLOSE
+08/12/2017 11:03:56 a.m..20 EventoSockClose
+08/12/2017 11:03:59 a.m..64 WndProc FDCLOSE
+08/12/2017 11:06:20 a.m..13 TratarMinutoANtiCheat
+08/12/2017 11:06:20 a.m..30 WndProc FDCLOSE
+08/12/2017 11:06:42 a.m..12 WndProc FDCLOSE
+08/12/2017 11:06:42 a.m..89 PasarSegundo
+08/12/2017 11:07:00 a.m..02 WndProc FDCLOSE
+08/12/2017 11:07:00 a.m..02 EventoSockClose
+08/12/2017 11:15:56 a.m..97 TratarMinutoANtiCheat
+08/12/2017 11:15:57 a.m..23 WndProc FDCLOSE
+08/12/2017 11:26:57 a.m..46 TratarMinutoANtiCheat
+08/12/2017 11:26:57 a.m..61 WndProc FDCLOSE
+08/12/2017 11:28:57 a.m..70 TratarMinutoANtiCheat
+08/12/2017 11:29:20 a.m..68 WndProc FDCLOSE
+08/12/2017 11:32:47 a.m..52 WndProc FDCLOSE
+08/12/2017 11:32:48 a.m..09 PasarSegundo
+08/12/2017 04:22:50 p.m..26 WndProc FDCLOSE
+08/12/2017 04:22:50 p.m..36 PasarSegundo
+08/12/2017 04:28:46 p.m..45 WndProc FDCLOSE
+08/12/2017 04:28:47 p.m..53 PasarSegundo
+08/12/2017 04:29:41 p.m..58 WndProc FDCLOSE
+08/12/2017 04:29:42 p.m..68 PasarSegundo
+08/12/2017 04:32:26 p.m..14 WndProc FDCLOSE
+08/12/2017 04:32:27 p.m..30 PasarSegundo
+08/12/2017 04:33:14 p.m..19 WndProc FDCLOSE
+08/12/2017 04:33:14 p.m..96 PasarSegundo
+08/12/2017 04:57:17 p.m..91 WndProc FDCLOSE
+08/12/2017 04:57:18 p.m..52 PasarSegundo
+08/12/2017 05:00:30 p.m..53 WndProc FDCLOSE
+08/12/2017 05:02:02 p.m..36 WndProc FDCLOSE
+08/12/2017 05:02:02 p.m..83 PasarSegundo
+08/12/2017 05:04:17 p.m..50 TratarMinutoANtiCheat
+08/12/2017 05:04:19 p.m..42 WndProc FDCLOSE
+08/12/2017 05:08:17 p.m..73 TratarMinutoANtiCheat
+08/12/2017 05:08:21 p.m..44 WndProc FDCLOSE
+08/12/2017 05:10:17 p.m..84 TratarMinutoANtiCheat
+08/12/2017 05:10:17 p.m..95 WndProc FDCLOSE
+08/12/2017 05:12:34 p.m..05 WndProc FDCLOSE
+08/12/2017 05:12:34 p.m..60 PasarSegundo
+08/12/2017 05:21:11 p.m..84 WndProc FDCLOSE
+08/12/2017 05:21:12 p.m..96 PasarSegundo
+08/12/2017 06:14:40 p.m..46 WndProc FDCLOSE
+08/12/2017 06:14:41 p.m..34 PasarSegundo
+10/12/2017 03:20:46 p.m..33 WndProc FDCLOSE
+10/12/2017 03:20:47 p.m..15 PasarSegundo
+10/12/2017 03:39:56 p.m..66 WndProc FDCLOSE
+10/12/2017 03:39:57 p.m..27 PasarSegundo
+10/12/2017 03:41:13 p.m..66 WndProc FDCLOSE
+10/12/2017 03:41:14 p.m..60 PasarSegundo
+10/12/2017 03:43:28 p.m..36 WndProc FDCLOSE
+10/12/2017 03:43:28 p.m..46 PasarSegundo
+10/12/2017 03:46:50 p.m..26 TratarMinutoANtiCheat
+10/12/2017 03:46:50 p.m..61 WndProc FDCLOSE
+10/12/2017 03:48:16 p.m..13 WndProc FDCLOSE
+10/12/2017 03:48:16 p.m..81 PasarSegundo
+10/12/2017 04:02:50 p.m..82 TratarMinutoANtiCheat
+10/12/2017 04:03:36 p.m..66 WndProc FDCLOSE
+10/12/2017 04:05:50 p.m..99 TratarMinutoANtiCheat
+10/12/2017 04:05:51 p.m..15 WndProc FDCLOSE
+10/12/2017 04:08:51 p.m..23 TratarMinutoANtiCheat
+10/12/2017 04:08:51 p.m..38 WndProc FDCLOSE
+10/12/2017 04:11:48 p.m..20 WndProc FDCLOSE
+10/12/2017 04:11:49 p.m..03 PasarSegundo
+10/12/2017 04:20:34 p.m..93 WndProc FDCLOSE
+10/12/2017 04:20:35 p.m..80 PasarSegundo
+10/12/2017 04:30:27 p.m..72 WndProc FDCLOSE
+10/12/2017 04:30:28 p.m..62 PasarSegundo
+10/12/2017 04:32:51 p.m..40 WndProc FDCLOSE
+10/12/2017 04:32:52 p.m..46 PasarSegundo
+10/12/2017 04:34:51 p.m..87 TratarMinutoANtiCheat
+10/12/2017 04:34:51 p.m..96 WndProc FDCLOSE
+10/12/2017 04:35:01 p.m..68 WndProc FDCLOSE
+10/12/2017 04:35:02 p.m..64 PasarSegundo
+17/03/2019 11:03:40 a.m..71 Deslogueado DoEfectosUsuarios
+17/03/2019 11:04:27 a.m..32 WndProc FDCLOSE
+17/03/2019 11:06:18 a.m..22 WndProc FDCLOSE
+17/03/2019 11:06:18 a.m..22 EventoSockClose
+17/03/2019 11:07:51 a.m..77 WndProc FDCLOSE
+17/03/2019 11:08:07 a.m..01 WndProc FDCLOSE
+17/03/2019 11:10:00 a.m..11 Deslogueado DoEfectosUsuarios
+17/03/2019 11:10:36 a.m..29 WndProc FDCLOSE
+17/03/2019 11:10:54 a.m..39 Deslogueado DoEfectosUsuarios
+17/03/2019 11:10:54 a.m..40 WndProc FDCLOSE
+17/03/2019 11:11:38 a.m..70 Deslogueado DoEfectosUsuarios
+17/03/2019 11:11:41 a.m..82 WndProc FDCLOSE
+17/03/2019 11:12:01 a.m..46 WndProc FDCLOSE
+17/03/2019 11:20:00 a.m..68 WndProc FDCLOSE
+17/03/2019 11:20:01 a.m..68 PasarSegundo
+17/03/2019 11:23:58 a.m..60 WndProc FDCLOSE
+17/03/2019 11:23:59 a.m..59 PasarSegundo
+17/03/2019 12:15:12 p.m..43 WndProc FDCLOSE
+17/03/2019 12:15:12 p.m..54 PasarSegundo
+17/03/2019 12:28:12 p.m..30 WndProc FDCLOSE
+17/03/2019 12:28:12 p.m..49 PasarSegundo
+17/03/2019 12:51:12 p.m..75 WndProc FDCLOSE
+17/03/2019 12:51:13 p.m..55 PasarSegundo
+27/03/2020 09:44:37 p.m..94 WndProc FDCLOSE
+27/03/2020 09:44:40 p.m..53 WndProc FDCLOSE
+27/03/2020 09:44:45 p.m..43 WndProc FDCLOSE
+27/03/2020 09:46:44 p.m..64 WndProc FDCLOSE
+27/03/2020 09:46:44 p.m..64 EventoSockClose
+31/03/2020 04:37:33 a.m..88 Deslogueado DoEfectosUsuarios
+31/03/2020 04:37:33 a.m..91 WndProc FDCLOSE
+31/03/2020 04:37:36 a.m..52 WndProc FDCLOSE
+31/03/2020 04:37:41 a.m..28 WndProc FDCLOSE
+31/03/2020 04:37:48 a.m..15 WndProc FDCLOSE
+31/03/2020 04:37:49 a.m..27 WndProc FDCLOSE
+31/03/2020 04:37:49 a.m..89 WndProc FDCLOSE
+31/03/2020 04:37:56 a.m..45 WndProc FDCLOSE
+31/03/2020 04:37:58 a.m..38 WndProc FDCLOSE
+31/03/2020 04:37:59 a.m..26 WndProc FDCLOSE
+31/03/2020 04:37:59 a.m..94 WndProc FDCLOSE
+31/03/2020 04:38:31 a.m..53 WndProc FDCLOSE
+31/03/2020 04:38:33 a.m..45 WndProc FDCLOSE
+31/03/2020 04:38:34 a.m..51 WndProc FDCLOSE
+31/03/2020 04:38:35 a.m..52 WndProc FDCLOSE
+31/03/2020 04:38:38 a.m..63 WndProc FDCLOSE
+31/03/2020 04:38:39 a.m..63 WndProc FDCLOSE
+31/03/2020 04:38:40 a.m..41 WndProc FDCLOSE
+31/03/2020 04:38:47 a.m..13 WndProc FDCLOSE
+31/03/2020 04:38:47 a.m..13 EventoSockClose
+31/03/2020 04:38:47 a.m..24 WndProc FDCLOSE
+31/03/2020 04:38:48 a.m..61 WndProc FDCLOSE
+31/03/2020 04:42:48 a.m..70 WndProc FDCLOSE
+31/03/2020 04:42:53 a.m..44 WndProc FDCLOSE
+31/03/2020 04:43:14 a.m..20 WndProc FDCLOSE
+31/03/2020 04:43:32 a.m..66 WndProc FDCLOSE
+31/03/2020 04:43:34 a.m..05 WndProc FDCLOSE
+31/03/2020 04:43:35 a.m..78 WndProc FDCLOSE
+31/03/2020 04:43:40 a.m..65 WndProc FDCLOSE
+31/03/2020 04:43:41 a.m..96 WndProc FDCLOSE
+31/03/2020 04:43:46 a.m..28 WndProc FDCLOSE
+31/03/2020 04:43:53 a.m..17 Deslogueado DoEfectosUsuarios
+31/03/2020 04:43:53 a.m..18 WndProc FDCLOSE
+31/03/2020 04:43:57 a.m..62 WndProc FDCLOSE
+31/03/2020 04:43:58 a.m..93 WndProc FDCLOSE
+31/03/2020 04:43:59 a.m..81 WndProc FDCLOSE
+31/03/2020 04:44:32 a.m..48 WndProc FDCLOSE
+31/03/2020 04:51:47 a.m..17 WndProc FDCLOSE
+18/04/2020 11:30:19 p.m..29 WndProc FDCLOSE
+19/04/2020 12:18:20 p.m..88 WndProc FDCLOSE
+19/04/2020 12:19:23 p.m..46 Deslogueado DoEfectosUsuarios
+19/04/2020 12:19:23 p.m..47 WndProc FDCLOSE
+19/04/2020 12:19:39 p.m..28 WndProc FDCLOSE
+19/04/2020 12:19:41 p.m..16 WndProc FDCLOSE
+19/04/2020 12:19:44 p.m..20 WndProc FDCLOSE
+19/04/2020 12:19:57 p.m..64 WndProc FDCLOSE
+19/04/2020 12:19:59 p.m..13 WndProc FDCLOSE
+19/04/2020 12:32:11 p.m..99 WndProc FDCLOSE
+19/04/2020 12:32:12 p.m..92 WndProc FDCLOSE
+19/04/2020 12:32:13 p.m..47 WndProc FDCLOSE
+19/04/2020 01:10:52 p.m..66 Deslogueado DoEfectosUsuarios
+19/04/2020 01:10:52 p.m..66 WndProc FDCLOSE
+19/04/2020 01:11:15 p.m..74 WndProc FDCLOSE
+19/04/2020 01:11:18 p.m..95 WndProc FDCLOSE
+19/04/2020 02:45:43 p.m..59 AccLogged DoEfectosUsuarios
+19/04/2020 02:45:43 p.m..66 WndProc FDCLOSE
+19/04/2020 02:45:43 p.m..66 WndProc FDCLOSE
+19/04/2020 04:37:12 p.m..80 WndProc FDCLOSE
+19/04/2020 04:37:12 p.m..82 EventoSockClose
+19/04/2020 04:55:19 p.m..44 WndProc FDCLOSE
+19/04/2020 04:55:20 p.m..25 PasarSegundo
+19/04/2020 04:55:31 p.m..72 WndProc FDCLOSE
+19/04/2020 04:55:34 p.m..97 WndProc FDCLOSE
+19/04/2020 04:55:45 p.m..14 WndProc FDCLOSE
+19/04/2020 04:56:06 p.m..35 WndProc FDCLOSE
+19/04/2020 05:11:40 p.m..23 WndProc FDCLOSE
+19/04/2020 05:11:40 p.m..23 EventoSockClose
+19/04/2020 05:15:44 p.m..15 WndProc FDCLOSE
+19/04/2020 05:15:44 p.m..81 PasarSegundo
+19/04/2020 05:43:46 p.m..50 AccLogged DoEfectosUsuarios
+19/04/2020 05:43:46 p.m..53 WndProc FDCLOSE
+19/04/2020 06:10:09 p.m..84 AccLogged DoEfectosUsuarios
+19/04/2020 06:10:09 p.m..87 WndProc FDCLOSE
+19/04/2020 08:02:41 p.m..53 AccLogged DoEfectosUsuarios
+19/04/2020 08:02:41 p.m..58 WndProc FDCLOSE
+19/04/2020 08:02:41 p.m..58 WndProc FDCLOSE
+19/04/2020 08:59:40 p.m..38 WndProc FDCLOSE
+19/04/2020 08:59:40 p.m..38 EventoSockClose
+19/04/2020 09:13:49 p.m..05 WndProc FDCLOSE
+19/04/2020 09:13:49 p.m..05 EventoSockClose
+19/04/2020 10:00:30 p.m..98 AccLogged DoEfectosUsuarios
+19/04/2020 10:00:31 p.m..06 WndProc FDCLOSE
+19/04/2020 10:58:51 p.m..13 WndProc FDCLOSE
+19/04/2020 10:58:51 p.m..13 EventoSockClose
+19/04/2020 11:07:14 p.m..62 WndProc FDCLOSE
+19/04/2020 11:07:14 p.m..62 EventoSockClose
+19/04/2020 11:10:05 p.m..38 WndProc FDCLOSE
+19/04/2020 11:10:05 p.m..39 EventoSockClose
+19/04/2020 11:16:24 p.m..59 WndProc FDCLOSE
+19/04/2020 11:16:24 p.m..59 EventoSockClose
+19/04/2020 11:47:44 p.m..00 WndProc FDCLOSE
+19/04/2020 11:47:44 p.m..00 EventoSockClose
+19/04/2020 11:48:09 p.m..38 WndProc FDCLOSE
+19/04/2020 11:48:09 p.m..38 EventoSockClose
+20/04/2020 12:03:13 a.m..43 WndProc FDCLOSE
+20/04/2020 12:03:13 a.m..43 EventoSockClose
+20/04/2020 12:05:03 a.m..67 WndProc FDCLOSE
+20/04/2020 12:05:03 a.m..67 EventoSockClose
+20/04/2020 12:07:36 a.m..11 WndProc FDCLOSE
+20/04/2020 12:07:36 a.m..11 EventoSockClose
+20/04/2020 12:27:46 a.m..19 WndProc FDCLOSE
+20/04/2020 12:27:46 a.m..19 EventoSockClose
+20/04/2020 12:29:31 a.m..15 WndProc FDCLOSE
+20/04/2020 12:29:31 a.m..15 EventoSockClose
+20/04/2020 12:29:40 a.m..51 WndProc FDCLOSE
+20/04/2020 12:29:40 a.m..51 EventoSockClose
+20/04/2020 12:35:15 a.m..14 WndProc FDCLOSE
+20/04/2020 12:35:15 a.m..14 EventoSockClose
+20/04/2020 10:35:40 p.m..04 WndProc FDCLOSE
+20/04/2020 10:35:40 p.m..05 EventoSockClose
+20/04/2020 10:36:35 p.m..63 WndProc FDCLOSE
+20/04/2020 10:36:35 p.m..63 EventoSockClose
+20/04/2020 10:37:06 p.m..82 WndProc FDCLOSE
+20/04/2020 10:37:06 p.m..82 EventoSockClose
+20/04/2020 10:43:30 p.m..93 WndProc FDCLOSE
+20/04/2020 10:43:30 p.m..93 EventoSockClose
+20/04/2020 10:44:00 p.m..01 WndProc FDCLOSE
+20/04/2020 10:44:00 p.m..01 EventoSockClose
+20/04/2020 10:47:32 p.m..48 WndProc FDCLOSE
+20/04/2020 10:47:32 p.m..48 EventoSockClose
+20/04/2020 11:10:57 p.m..50 AccLogged DoEfectosUsuarios
+20/04/2020 11:10:57 p.m..52 WndProc FDCLOSE

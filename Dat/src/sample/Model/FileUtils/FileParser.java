@@ -65,7 +65,7 @@ public class FileParser {
         int i = 0;
         boolean isReadingHeader = true;
 
-        currentFileName = "../" + filename;
+        currentFileName = filename;
         try {
             FileManager.getInstance().readFileAsListOfStrings(currentFileName);
         } catch (IOException e) {

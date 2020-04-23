@@ -117,7 +117,7 @@ public class Main extends Application {
 
 
     private void onDatsListItemClick(Observable observable) {
-        String fileName = datsListView.getSelectionModel().getSelectedItem();
+        String fileName = "../" + datsListView.getSelectionModel().getSelectedItem();
 
         try {
             loadDatFiles(fileName);

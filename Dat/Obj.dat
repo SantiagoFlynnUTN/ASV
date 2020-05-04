@@ -570,7 +570,7 @@ CP2=3
 [OBJ30]
 Name=Espada liviana pt1
 ObjType=1
-GrhIndex=619
+GrhIndex=4673
 AnimAlto=1
 AnimBajo=1
 Crucial=1
@@ -615,7 +615,7 @@ NoDecraft=1
 [OBJ33]
 Name=Báculo pt2
 ObjType=1
-GrhIndex=619
+GrhIndex=4666
 AnimAlto=1
 AnimBajo=1
 Crucial=1
@@ -630,7 +630,7 @@ CP2=3
 [OBJ34]
 Name=Daga pt2
 ObjType=1
-GrhIndex=619
+GrhIndex=889
 AnimAlto=1
 AnimBajo=1
 Crucial=1
@@ -644,7 +644,7 @@ CP2=3
 [OBJ35]
 Name=Espada liviana pt2
 ObjType=1
-GrhIndex=619
+GrhIndex=888
 AnimAlto=1
 AnimBajo=1
 Crucial=1
@@ -657,7 +657,7 @@ CP2=3
 [OBJ36]
 Name=Espada pesada pt2
 ObjType=1
-GrhIndex=619
+GrhIndex=4673
 AnimAlto=1
 AnimBajo=1
 MaxHIT=17
@@ -669,7 +669,7 @@ CP2=3
 [OBJ37]
 Name=Arco pt2
 ObjType=1
-GrhIndex=619
+GrhIndex=4672
 AnimAlto=1
 AnimBajo=1
 Crucial=1
@@ -834,7 +834,7 @@ CP2=3
 [OBJ47]
 Name=Vestimenta Común Roja
 ObjType=2
-GrhIndex=619
+GrhIndex=4663
 AnimAlto=23
 AnimBajo=25
 AnimAltoM=23
@@ -842,11 +842,11 @@ AnimBajoM=25
 Valor=1
 
 [OBJ48]
-Name=Vestimenta Común Azul
+Name=Vestimenta Común Verde
 ObjType=2
-GrhIndex=619
-AnimAlto=27
-AnimBajo=28
+GrhIndex=4659
+AnimAlto=24
+AnimBajo=26
 AnimAltoM=27
 AnimBajoM=28
 Valor=1
@@ -1022,9 +1022,9 @@ CP2=3
 [OBJ60]
 Name=Tunica pt2
 ObjType=2
-GrhIndex=619
-AnimAlto=11
-AnimBajo=11
+GrhIndex=4656
+AnimAlto=78
+AnimBajo=79
 AnimAltoM=11
 AnimBajoM=11
 Crucial=1
@@ -1037,7 +1037,7 @@ CP2=3
 [OBJ61]
 Name=Armadura liviana pt2
 ObjType=2
-GrhIndex=619
+GrhIndex=4657
 AnimAlto=11
 AnimBajo=11
 AnimAltoM=11
@@ -1052,7 +1052,7 @@ CP2=3
 [OBJ62]
 Name=Armadura pesada pt2
 ObjType=2
-GrhIndex=619
+GrhIndex=4658
 AnimAlto=11
 AnimBajo=11
 AnimAltoM=11
@@ -1497,7 +1497,7 @@ Valor=1
 [OBJ94]
 Name=Vestimenta Común Verde Newbie
 ObjType=2
-GrhIndex=619
+GrhIndex=4659
 AnimAlto=24
 AnimBajo=26
 AnimAltoM=24
@@ -1517,7 +1517,6 @@ AnimBajoM=28
 Newbie=1
 Soulbound=1
 Valor=1
-
 [OBJ96]
 Name=Poción Amarilla
 NameP=Pociones Amarillas
@@ -1802,7 +1801,7 @@ CP2=3
 [OBJ121]
 Name=Escudo liviano pt2
 ObjType=5
-GrhIndex=619
+GrhIndex=4668
 AnimAlto=1
 AnimBajo=1
 Crucial=1
@@ -1813,7 +1812,7 @@ CP2=3
 [OBJ122]
 Name=Escudo pesado pt2
 ObjType=5
-GrhIndex=619
+GrhIndex=4669
 AnimAlto=1
 AnimBajo=1
 Crucial=1
@@ -2086,9 +2085,9 @@ CP2=3
 [OBJ144]
 Name=Casco liviano pt2
 ObjType=6
-GrhIndex=619
-AnimAlto=1
-AnimBajo=1
+GrhIndex=886
+AnimAlto=18
+AnimBajo=18
 Crucial=1
 MINDEF=95
 MAXDEF=100
@@ -2099,9 +2098,9 @@ CP2=3
 [OBJ145]
 Name=Sombrero pt2
 ObjType=6
-GrhIndex=619
-AnimAlto=1
-AnimBajo=1
+GrhIndex=4665
+AnimAlto=21
+AnimBajo=21
 Crucial=1
 MINDEF=15
 MAXDEF=20
@@ -2112,9 +2111,9 @@ CP2=3
 [OBJ146]
 Name=Casco pesado pt2
 ObjType=6
-GrhIndex=619
-AnimAlto=1
-AnimBajo=1
+GrhIndex=4670
+AnimAlto=19
+AnimBajo=19
 Crucial=1
 MINDEF=145
 MAXDEF=150
@@ -2207,7 +2206,6 @@ GrhIndex=619
 DefensaMagicaMax=50
 DefensaMagicaMin=45
 Valor=1
-
 [OBJ156]
 Name=Anillo +3 pt2
 ObjType=7
@@ -2235,7 +2233,6 @@ GrhIndex=619
 DefensaMagicaMax=100
 DefensaMagicaMin=95
 Valor=1
-
 [OBJ159]
 Name=Copa de Oro
 NameP=Copas de oro

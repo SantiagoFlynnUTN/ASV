@@ -734,7 +734,7 @@ Libro=1215
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 [HECHIZO28]
-Nombre=Relampago
+Nombre=Relámpago
 Desc=Hechizo de daño causante de gran daño a la criatura.
 PalabrasMagicas=ArLa It
 HechizeroMsg=Has lanzado Relampago sobre

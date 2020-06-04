@@ -1,0 +1,4 @@
+On "error abriendo la base de datos" 
+Error: [MySQL][ODBC 5.3(a) Driver]Can't connect to MySQL server on 'localhost' (10061)
+
+panel de control -> herram admin -> servicios -> iniciar mysql

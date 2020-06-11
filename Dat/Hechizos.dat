@@ -854,9 +854,8 @@ TargetMsg=lanzó Llama de Dragón sobre ti.
 PropioMsg=Has lanzado Llama de Dragón sobre ti.
 Tipo=1
 WAV=27
-FXgrh=9
-Loops=1
-
+FXgrh=12
+Loops=0
 SubeHP=2
 MinHP=85
 MaxHP=87
@@ -906,13 +905,14 @@ PropioMsg=Generas una ilusión de tu apariencia actual.
 
 Tipo=2
 WAV=16
-FXgrh=4
+FXgrh=0
 
 Mimetiza=1
 
 MinSkill=7
 ManaRequerido=800
-
+CasterFX=4
+CasterLoop=0
 Target=1
 StaRequerido= 44
 Libro=1233

@@ -198,8 +198,8 @@ Rango4=600
 Rango5=800
 
 [EXP_ORO]
-MultiplicadorEXP=10000
-MultiplicadorORO=1000
+MultiplicadorEXP=10
+MultiplicadorORO=1
 
 [SUERTE]
 suerte_base=12

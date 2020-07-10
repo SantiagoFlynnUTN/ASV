@@ -16,7 +16,7 @@
 '  NpcReyCastillo = 14
 
 [INIT]
-NumNPCs=9
+NumNPCs=12
 
 [NPC1] 'NPC
 Name=Doroteo
@@ -31,7 +31,7 @@ MenuIndex=6
 [NPC2] 'NPC
 Name=Argal
 Info=Provisiones
-Desc=¡Hola buen amigo! cuento con las mejores frutas de estas comarcas.
+Desc=Â¡Hola buen amigo! cuento con las mejores frutas de estas comarcas.
 Head=7
 Body=11
 Heading=3
@@ -60,7 +60,7 @@ MenuIndex=3
 
 [NPC3] 'Quest de Inthak
 Name=Korgan
-Desc=Aventurero ¿Estas preparado?
+Desc=Aventurero Â¿Estas preparado?
 Head=8
 Body=11
 Heading=3
@@ -76,7 +76,7 @@ Quests3=12
 [NPC4] ' Sacerdote
 Name=Padre Valyst
 NpcType=1
-Desc=Hola hijo mío, soy el Sacerdote de este pueblo.
+Desc=Hola hijo mÃ­o, soy el Sacerdote de este pueblo.
 Head=14
 Body=11
 Heading=3
@@ -166,7 +166,7 @@ Movement=1
 [NPC9] ' Sacerdote
 Name=Vendedora de Pociones
 Info=Provisiones
-Desc=¡Hola buen amigo! cuento con las mejores pociones de estas comarcas.
+Desc=Â¡Hola buen amigo! cuento con las mejores pociones de estas comarcas.
 Head=7
 Body=11
 Heading=3
@@ -185,7 +185,7 @@ MenuIndex=3
 [NPC10] ' 
 Name=Sets de mago
 Info=Provisiones
-Desc=¡Hola buen amigo! vendo todos los items de mago
+Desc=Â¡Hola buen amigo! vendo todos los items de mago
 Head=7
 Body=11
 Heading=3
@@ -209,7 +209,7 @@ MenuIndex=3
 [NPC11] ' 
 Name=Sets de druida
 Info=Provisiones
-Desc=¡Hola buen amigo! vendo todos los items de druida
+Desc=Â¡Hola buen amigo! vendo todos los items de druida
 Head=7
 Body=11
 Heading=3
@@ -234,5 +234,34 @@ Obj13=28-10000
 Obj14=57-10000
 Obj15=141-10000
 Obj16=153-10000
+MenuIndex=3
 
+[NPC12] ' 
+Name=Sets de bardo
+Info=Provisiones
+Desc=Â¡Hola buen amigo! vendo todos los items de bardo
+Head=7
+Body=11
+Heading=3
+Movement=1
+Comercia=1
+ReSpawn=0
+TipoItems=1
+NROITEMS=16
+Obj1=4-10000
+Obj2=5-10000
+Obj3=18-10000
+Obj4=19-10000
+Obj5=41-10000
+Obj6=51-10000
+Obj7=106-10000
+Obj8=113-10000
+Obj9=125-10000
+Obj10=133-10000
+Obj11=29-10000
+Obj12=58-10000
+Obj13=119-10000
+Obj14=140-10000
+Obj15=-10000
+Obj16=-10000
 MenuIndex=3

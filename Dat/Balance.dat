@@ -209,3 +209,7 @@ multiplicador_modificador_diferencial_drop=1
 chance_drop_general=1	
 'Por lo que multiplica la diferencia de la suerte con el basal. e.g (suerte - suerte_base ) * multiplicador_diferencial. El resultado se usa de porcentual a la tirada de chance del usuario, y se suma o resta (segun el signo) a la misma. En resumen, en 1, es el literal del diferencial (-6%;9%), mientras mas chico sea, mas chico es el intervalo. Mientras mas grande, mas grande px. Si lo subis mucho, posiblemente todos con suerte > suerte_base le caigan todos los items y los que tenga < suerte_base no le caiga nunca.
 
+[CRAFTING]
+MineralxBronce=1
+MineralxPlata=2
+MineralxOro=3

@@ -605,7 +605,7 @@ Libro=1230
 
 [HECHIZO23]
 Nombre=Descarga Eléctrica
-Desc=Hechizo de daño que provoca de 50 a 53 puntos de daño a la victima.
+Desc=Hechizo de daño que provoca de 60 a 63 puntos de daño a la victima.
 PalabrasMagicas=T'HY KOOOL
 HechizeroMsg=Has lanzado Descarga Eléctrica sobre
 TargetMsg=lanzó Descarga Eléctrica sobre ti.
@@ -616,8 +616,8 @@ FXgrh=39
 Loops=0
 
 SubeHP=2
-MinHP=50
-MaxHP=53
+MinHP=60
+MaxHP=63
 Libro=1209
 MinSkill=8
 ManaRequerido=450

@@ -1,4 +1,4 @@
-' TIPOS NPC
+﻿' TIPOS NPC
 '  Comun = 0
 '  Revividor = 1
 '  Guardia = 2
@@ -203,7 +203,7 @@ Obj6=27-100
 Obj7=27-100
 Obj8=56-100
 Obj9=109-100
-Obj10=118-100
+Obj10=111-100
 Obj11=158-100
 Obj12=268-100
 Obj13=269-100

@@ -420,7 +420,7 @@ Libro=1210
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 [HECHIZO16]
-Nombre=Viento Huracanado
+Nombre=Huracán Disonante
 Desc=Hechizo ofensivo que solo puede ser aprendido por bardos, causa de 80 a 83 puntos de daño a la victima
 PalabrasMagicas=Vorago Voragînîs
 HechizeroMsg=Has lanzado Viento Huracanado sobre
@@ -1008,12 +1008,12 @@ Libro=1227
 '&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 [HECHIZO38]
-Nombre=Burbuja Defensiva
-Desc=Burbuja protectora capas de aumentar notablemente la defensa fisica del objetivo.
+Nombre=Circulo de protección
+Desc=Campo protector capaz de aumentar notablemente la defensa fisica del objetivo.
 PalabrasMagicas=Ümx P'trect Mà
-HechizeroMsg=Has lanzado Burbuja de Defensa sobre
-TargetMsg=lanzó Burbuja defensiva sobre ti.
-PropioMsg=Has lanzado Burbuja defensiva sobre ti.
+HechizeroMsg=Has lanzado Circulo de Protección sobre
+TargetMsg=lanzó Circulo de Protección sobre ti.
+PropioMsg=Has lanzado Circulo de Protección sobre ti.
 
 Tipo=5
 WAV=86
